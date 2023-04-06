@@ -172,6 +172,7 @@ function start() {
     document.querySelector('.sorting.right').style.display = 'flex';
 
     document.querySelector('.options').style.display = 'none';
+    document.querySelector('.banner.pic').style.display = 'none';
 
     /** Copy data into sorting array to filter. */
     characterDataToSort = characterData.slice(0);
