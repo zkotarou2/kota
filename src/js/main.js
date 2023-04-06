@@ -111,7 +111,6 @@ function init() {
                     break;
                 case 'j':
                 case '2':
-                    generateImage();
                     break;
                 case 's':
                 case '3':
@@ -168,9 +167,6 @@ function init() {
 /** Begin sorting. */
 function start() {
     /*Hide starter imgages show iframe*/
-    document.querySelector('.left.sort.image').style.display = 'none';
-    document.querySelector('.right.sort.image').style.display = 'none';
-
     document.querySelector('.sorting.middle.inner').style.display = 'inline-block';
     document.querySelector('.sorting.left').style.display = 'flex';
     document.querySelector('.sorting.right').style.display = 'flex';
@@ -307,17 +303,8 @@ function start() {
     /** Disable all checkboxes and hide/show appropriate parts while we preload the images. */
     document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.disabled = true);
     document.querySelectorAll('.starting.button').forEach(el => el.style.display = 'none');
-    document.querySelector('.loading.button').style.display = 'block';
     document.querySelector('.progress').style.display = 'block';
-    loading = true;
-
-    preloadImages().then(() => {
-        loading = false;
-        document.querySelector('.loading.button').style.display = 'none';
-        document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
-        /*document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');*/
-        display();
-    });
+    display();
 }
 
 /** Displays the current state of the sorter. */
@@ -337,8 +324,8 @@ function display() {
     progressBar(`Battle No. ${battleNo}`, percent);
 
 
-    document.querySelector('.left.sort.video').src = leftChar.embedLink;
-    document.querySelector('.right.sort.video').src = rightChar.embedLink;
+    document.querySelector('.left.sort.video').src = "https://www.youtube.com/embed/" + leftChar.videoId;
+    document.querySelector('.right.sort.video').src = "https://www.youtube.com/embed/" + rightChar.videoId;
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
     document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);

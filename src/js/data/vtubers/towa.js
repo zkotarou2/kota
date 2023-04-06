@@ -1,40 +1,35 @@
 export const towaAAA = [
     {
         name: "Asu no Yozora Shoukaihan",
-        embedLink: "https://www.youtube.com/embed/XpgSrULHibg",
-        img: "c5DqpgX.png",
+        videoId: "XpgSrULHibg",
         opts: {
             singer: ["towa", "aqua", "suisei"]
         }
     },
     {
         name: "Haiiro to ao",
-        embedLink: "https://www.youtube.com/embed/0firv69LkgI",
-        img: "tJnkSzK.png",
+        videoId: "0firv69LkgI",
         opts: {
             singer: ["towa", "suisei"]
         }
     },
     {
         name: "Akuma",
-        embedLink: "https://www.youtube.com/embed/F1_OQXNF8b8",
-        img: "0YT7QlS.png",
+        videoId: "F1_OQXNF8b8",
         opts: {
             singer: ["towa"]
         }
     },
     {
         name: "brilliant",
-        embedLink: "https://www.youtube.com/embed/2D0B3wTjE20",
-        img: "NWlZud3.png",
+        videoId: "2D0B3wTjE20",
         opts: {
             singer: ["towa"]
         }
     },
     {
         name: "aqua",
-        embedLink: "https://www.youtube.com/embed/2D0B3wTjE20",
-        img: "NWlZud3.png",
+        embedLink: "2D0B3wTjE20",
         opts: {
             singer: ["aqua"]
         }
