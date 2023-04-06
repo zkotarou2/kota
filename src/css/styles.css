@@ -153,8 +153,8 @@ body {
     height: 50px;
     width: 350px;
     border: 1px solid #000000;
-    display: flex; !important;
-    flex-wrap: wrap; !important;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
