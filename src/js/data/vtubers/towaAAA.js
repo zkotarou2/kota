@@ -22,7 +22,7 @@ export const towaAAA = [
     },
     {
         name: "AsuiroClearSky",
-        embedLink: "2D0B3wTjE20",
+        embedLink: "UYyzAlbcw8w",
         opts: {
             singer: ["Towa", "Flare", "Aki", "Mio", "Miko", "Aqua", "Matsuri", "Mel", "Roboco"]
         }
