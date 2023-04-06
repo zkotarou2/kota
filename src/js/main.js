@@ -149,13 +149,8 @@ function init() {
         if (i === 3) {
             select.selected = 'selected';
         }
-        /*document.querySelector('.image.selector > select').insertAdjacentElement('beforeend', select);*/
-    }
 
-    /*document.querySelector('.image.selector > select').addEventListener('input', (e) => {
-        const imageNum = e.target.options[e.target.selectedIndex].value;
-        result(Number(imageNum));
-    });*/
+    }
 
     /** Show load button if save data exists. */
     if (storedSaveType) {
@@ -342,10 +337,8 @@ function display() {
 
     progressBar(`Battle No. ${battleNo}`, percent);
 
-    /* document.querySelector('.left.sort.image').src = leftChar.img;
-     document.querySelector('.right.sort.image').src = rightChar.img;*/
 
-     document.querySelector('.left.sort.video').src = leftChar.embedLink;
+    document.querySelector('.left.sort.video').src = leftChar.embedLink;
     document.querySelector('.right.sort.video').src = rightChar.embedLink;
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
@@ -542,9 +535,8 @@ function progressBar(indicator, percentage) {
  *
  * @param {number} [imageNum=3] Number of images to display. Defaults to 3.
  */
-function result(imageNum = 3) {
+function result(imageNum = 0) {
     document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
-    /*document.querySelector('.image.selector').style.display = 'block';*/
     document.querySelector('.time.taken').style.display = 'block';
 
     document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'none');
@@ -554,11 +546,7 @@ function result(imageNum = 3) {
 
     const header = '<div class="result head"><div class="left">Order</div><div class="right">Name</div></div>';
     const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Do another sorter?</a>`;
-    const imgRes = (char, num) => {
-        const charName = reduceTextWidth(char.name, 'Arial 12px', 160);
-        const charTooltip = char.name !== charName ? char.name : '';
-        return `<div class="result image"><div class="left"><span>${num}</span></div><div class="right"><img src="${char.img}"><div><span title="${charTooltip}">${charName}</span></div></div></div>`;
-    }
+
     const res = (char, num) => {
         const charName = reduceTextWidth(char.name, 'Arial 12px', 160);
         const charTooltip = char.name !== charName ? char.name : '';
@@ -579,11 +567,7 @@ function result(imageNum = 3) {
     characterDataToSort.forEach((val, idx) => {
         const characterIndex = finalSortedIndexes[idx];
         const character = characterDataToSort[characterIndex];
-        if (imageDisplay-- > 0) {
-            resultTable.insertAdjacentHTML('beforeend', imgRes(character, rankNum));
-        } else {
-            resultTable.insertAdjacentHTML('beforeend', res(character, rankNum));
-        }
+        resultTable.insertAdjacentHTML('beforeend', res(character, rankNum));
         finalCharacters.push({rank: rankNum, name: character.name});
 
         if (idx < characterDataToSort.length - 1) {
