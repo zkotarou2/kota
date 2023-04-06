@@ -122,6 +122,14 @@ body {
     cursor: pointer;
 }
 
+.sorter > .video {
+    width: 120px;
+    height: 180px;
+    margin: auto;
+    grid-row: 1 / 7;
+    cursor: pointer;
+}
+
 .sorter > .text {
     width: 120px;
     height: 60px;

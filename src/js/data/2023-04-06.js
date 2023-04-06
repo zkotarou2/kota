@@ -18,7 +18,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         name: "Asu no Yozora Shoukaihan",
-        /*embedLink: "https://www.youtube.com/embed/XpgSrULHibg"*/
+        embedLink: "https://www.youtube.com/embed/XpgSrULHibg",
         img: "c5DqpgX.png",
         opts: {
             singer: ["towa", "aqua", "suisei"]
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Haiiro to ao",
-/*        embedLink: "https://www.youtube.com/embed/0firv69LkgI"*/
+        embedLink: "https://www.youtube.com/embed/0firv69LkgI",
         img: "tJnkSzK.png",
         opts: {
             singer: ["towa", "suisei"]
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Akuma",
-  /*      embedLink: "https://www.youtube.com/embed/F1_OQXNF8b8"*/
+        embedLink: "https://www.youtube.com/embed/F1_OQXNF8b8",
         img: "0YT7QlS.png",
         opts: {
             singer: ["towa"]
@@ -42,10 +42,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "brilliant",
-   /*     embedLink: "https://www.youtube.com/embed/2D0B3wTjE20"*/
+        embedLink: "https://www.youtube.com/embed/2D0B3wTjE20",
         img: "NWlZud3.png",
         opts: {
             singer: ["towa"]
-        },
-    },
+        }
+    }
 ];

@@ -60,15 +60,15 @@ function init() {
     document.querySelector('.starting.start.button').addEventListener('click', start);
     document.querySelector('.starting.load.button').addEventListener('click', loadProgress);
 
-    document.querySelector('.left.sort.image').addEventListener('click', () => pick('left'));
-    document.querySelector('.right.sort.image').addEventListener('click', () => pick('right'));
+    document.querySelector('.left.sort.text').addEventListener('click', () => pick('left'));
+    document.querySelector('.right.sort.text').addEventListener('click', () => pick('right'));
 
     document.querySelector('.sorting.tie.button').addEventListener('click', () => pick('tie'));
     document.querySelector('.sorting.undo.button').addEventListener('click', undo);
     document.querySelector('.sorting.save.button').addEventListener('click', () => saveProgress('Progress'));
 
     document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
-    document.querySelector('.finished.getimg.button').addEventListener('click', generateImage);
+    /*document.querySelector('.finished.getimg.button').addEventListener('click', generateImage);*/
     document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
 
     document.querySelector('.clearsave').addEventListener('click', clearProgress);
@@ -139,7 +139,7 @@ function init() {
         }
     });
 
-    document.querySelector('.image.selector').insertAdjacentElement('beforeend', document.createElement('select'));
+    /*document.querySelector('.image.selector').insertAdjacentElement('beforeend', document.createElement('select'));*/
 
     /** Initialize image quantity selector for results. */
     for (let i = 0; i <= 10; i++) {
@@ -149,13 +149,13 @@ function init() {
         if (i === 3) {
             select.selected = 'selected';
         }
-        document.querySelector('.image.selector > select').insertAdjacentElement('beforeend', select);
+        /*document.querySelector('.image.selector > select').insertAdjacentElement('beforeend', select);*/
     }
 
-    document.querySelector('.image.selector > select').addEventListener('input', (e) => {
+    /*document.querySelector('.image.selector > select').addEventListener('input', (e) => {
         const imageNum = e.target.options[e.target.selectedIndex].value;
         result(Number(imageNum));
-    });
+    });*/
 
     /** Show load button if save data exists. */
     if (storedSaveType) {
@@ -174,6 +174,15 @@ function init() {
 
 /** Begin sorting. */
 function start() {
+    /*Hide starter imgages show iframe*/
+    document.querySelector('.left.sort.image').style.display = 'none';
+    document.querySelector('.right.sort.image').style.display = 'none';
+
+    document.querySelector('.left.sort.video').style.display = 'flex';
+    document.querySelector('.right.sort.video').style.display = 'flex';
+
+    document.querySelector('.options').style.display = 'none';
+
     /** Copy data into sorting array to filter. */
     characterDataToSort = characterData.slice(0);
 
@@ -333,9 +342,11 @@ function display() {
 
     progressBar(`Battle No. ${battleNo}`, percent);
 
-    document.querySelector('.left.sort.image').src = leftChar.img;
-    document.querySelector('.right.sort.image').src = rightChar.img;
+    /* document.querySelector('.left.sort.image').src = leftChar.img;
+     document.querySelector('.right.sort.image').src = rightChar.img;*/
 
+     document.querySelector('.left.sort.video').src = leftChar.embedLink;
+    document.querySelector('.right.sort.video').src = rightChar.embedLink;
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
     document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
@@ -487,7 +498,8 @@ function pick(sortType) {
         timeTaken = timeTaken || new Date().getTime() - timestamp;
 
         progressBar(`Battle No. ${battleNo} - Completed!`, 100);
-
+        document.querySelector('.left.sort.video').style.display = 'none';
+        document.querySelector('.right.sort.video').style.display = 'none';
         result();
     } else {
         battleNo++;
@@ -532,7 +544,7 @@ function progressBar(indicator, percentage) {
  */
 function result(imageNum = 3) {
     document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
-    document.querySelector('.image.selector').style.display = 'block';
+    /*document.querySelector('.image.selector').style.display = 'block';*/
     document.querySelector('.time.taken').style.display = 'block';
 
     document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'none');
@@ -658,7 +670,7 @@ function generateImage() {
 
     html2canvas(document.querySelector('.results')).then(canvas => {
         const dataURL = canvas.toDataURL();
-        const imgButton = document.querySelector('.finished.getimg.button');
+        /*const imgButton = document.querySelector('.finished.getimg.button');*/
         const resetButton = document.createElement('a');
 
         imgButton.removeEventListener('click', generateImage);
