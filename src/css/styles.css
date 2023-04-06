@@ -114,11 +114,16 @@ body {
     }
 }
 
+.sorter {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+
 .sorter > .image {
-    width: 120px;
+    width: 260px;
     height: 180px;
     margin: auto;
-    grid-row: 1 / 7;
     cursor: pointer;
 }
 
@@ -144,14 +149,25 @@ body {
     line-height: 1.5em;
 }
 
-.sorter > .left {
-    grid-column: 1 / 2;
+.sort.text {
+    height: 50px;
+    width: 350px;
     border: 1px solid #000000;
+    display: flex; !important;
+    flex-wrap: wrap; !important;
+    justify-content: center;
 }
 
-.sorter > .right {
-    grid-column: 3 / 4;
-    border: 1px solid #000000;
+.sorting {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sorting.middle.inner {
+    display: inline-block;
+    width: 150px;
+    height: 200px;
 }
 
 .options {

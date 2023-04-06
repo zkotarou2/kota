@@ -63,12 +63,10 @@ function init() {
     document.querySelector('.left.sort.text').addEventListener('click', () => pick('left'));
     document.querySelector('.right.sort.text').addEventListener('click', () => pick('right'));
 
-    document.querySelector('.sorting.tie.button').addEventListener('click', () => pick('tie'));
     document.querySelector('.sorting.undo.button').addEventListener('click', undo);
     document.querySelector('.sorting.save.button').addEventListener('click', () => saveProgress('Progress'));
 
     document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
-    /*document.querySelector('.finished.getimg.button').addEventListener('click', generateImage);*/
     document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
 
     document.querySelector('.clearsave').addEventListener('click', clearProgress);
@@ -173,8 +171,9 @@ function start() {
     document.querySelector('.left.sort.image').style.display = 'none';
     document.querySelector('.right.sort.image').style.display = 'none';
 
-    document.querySelector('.left.sort.video').style.display = 'flex';
-    document.querySelector('.right.sort.video').style.display = 'flex';
+    document.querySelector('.sorting.middle.inner').style.display = 'inline-block';
+    document.querySelector('.sorting.left').style.display = 'flex';
+    document.querySelector('.sorting.right').style.display = 'flex';
 
     document.querySelector('.options').style.display = 'none';
 
@@ -537,8 +536,9 @@ function progressBar(indicator, percentage) {
  */
 function result(imageNum = 0) {
     document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
+    document.querySelector('.sorting.middle.finished').style.display = 'block';
+    document.querySelector('.sorting.middle.inner').style.display = 'none';
     document.querySelector('.time.taken').style.display = 'block';
-
     document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'none');
     document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'none');
     document.querySelector('.options').style.display = 'none';

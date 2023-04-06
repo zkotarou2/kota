@@ -7,7 +7,7 @@ dataSet[dataSetVersion].options = [
     {
         name: "Filter by vtubers",
         key: "singer",
-        tooltip: "Check this to only sort by artists",
+        tooltip: "Check this to show songs containing these vtubers",
         checked: false,
         sub: [
             {name: "Yatogami Towa", key: "towa"},
@@ -17,4 +17,6 @@ dataSet[dataSetVersion].options = [
     }
 ];
 
-dataSet[dataSetVersion].characterData = [...towaAAA];
+dataSet[dataSetVersion].characterData = [
+    ...towaAAA
+];
