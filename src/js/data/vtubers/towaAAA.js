@@ -21,8 +21,8 @@ export const towaAAA = [
         }
     },
     {
-        name: "AsuiroClearSky",
-        embedLink: "UYyzAlbcw8w",
+        name: "Asuiro Clear Sky",
+        videoId: "UYyzAlbcw8w",
         opts: {
             singer: ["Towa", "Flare", "Aki", "Mio", "Miko", "Aqua", "Matsuri", "Mel", "Roboco"]
         }
