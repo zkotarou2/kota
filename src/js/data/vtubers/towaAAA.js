@@ -306,5 +306,12 @@ export const towaAAA = [
         opts: {
             singer: ["Towa", "Okayu"]
         }
+    },
+    {
+        name: "W/X/Y",
+        videoId: "fmDHfS0fXm4",
+        opts: {
+            singer: ["Towa"]
+        }
     }
 ];
