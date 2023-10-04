@@ -260,7 +260,7 @@ export const towaAAA = [
     },
     {
         name: "Sanvitalia",
-        videoId: "knb_mosTUvo?start=3276",
+        videoId: "ScTHsLH_0js",
         opts: {
             singer: ["Towa"]
         }
@@ -313,5 +313,42 @@ export const towaAAA = [
         opts: {
             singer: ["Towa"]
         }
-    }
+    },
+    {
+        name: "Lavie",
+        videoId: "HUup3W2aMgk",
+        opts: {
+            singer: ["Towa"]
+        }
+    },
+    {
+        name: "Identity",
+        videoId: "_ByrYK3oppY",
+        opts: {
+            singer: ["Towa", "Baelz"]
+        }
+    },
+    {
+        name: "ANEMONE",
+        videoId: "G3J06ircgMA",
+        opts: {
+            singer: ["Towa"]
+        }
+    },
+    {
+        name: "Twilight",
+        videoId: "U8Pl7dXU280",
+        opts: {
+            singer: ["Towa"]
+        }
+    } 
+    /* 
+    {
+        name: "",
+        videoId: "",
+        opts: {
+            singer: ["Towa"]
+        }
+    } 
+    */
 ];
