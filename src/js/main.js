@@ -68,6 +68,7 @@ function init() {
 
     document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
     document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
+    document.querySelector('.finished.list.button.two').addEventListener('click', generateRanksAlphabetically);
 
     document.querySelector('.clearsave').addEventListener('click', clearProgress);
 
@@ -659,6 +660,41 @@ function generateImage() {
     });
 }
 
+function generateRanksAlphabetically() {
+    const sortedCharacters = finalCharacters.sort((a, b) => a.name.localeCompare(b.name));
+    const data = sortedCharacters.reduce((str, char) => {
+        str += `${char.rank} ${char.name}<br>`;
+        return str;
+    }, '');
+    
+    const oWindow = window.open("", "", "height=640,width=480");
+    oWindow.document.write(`
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <title>Character Ranks</title>
+            <script>
+                function copyRanksToClipboard() {
+                    const ranks = ${JSON.stringify(sortedCharacters.map(char => char.rank).join('\n'))};
+                    const el = document.createElement('textarea');
+                    el.value = ranks;
+                    document.body.appendChild(el);
+                    el.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(el);
+                }
+            </script>
+        </head>
+        <body>
+            ${data}
+            <br>
+            <button onclick="copyRanksToClipboard()">Copy ranking numbers</button>
+        </body>
+        </html>
+    `);
+    oWindow.document.close();
+}
+
 function generateTextList() {
     const data = finalCharacters.reduce((str, char) => {
         str += `${char.rank}. ${char.name}<br>`;
@@ -666,6 +702,7 @@ function generateTextList() {
     }, '');
     const oWindow = window.open("", "", "height=640,width=480");
     oWindow.document.write(data);
+    oWindow.document.close();
 }
 
 function generateSavedata() {
