@@ -686,9 +686,9 @@ function generateRanksAlphabetically() {
             </script>
         </head>
         <body>
-            ${data}
-            <br>
             <button onclick="copyRanksToClipboard()">Copy ranking numbers</button>
+            <br>
+            ${data}
         </body>
         </html>
     `);
