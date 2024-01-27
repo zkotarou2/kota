@@ -326,8 +326,8 @@ function display() {
     progressBar(`Battle No. ${battleNo}`, percent);
 
 
-    document.querySelector('.left.sort.video').src = "https://www.youtube.com/embed/" + leftChar.videoId;
-    document.querySelector('.right.sort.video').src = "https://www.youtube.com/embed/" + rightChar.videoId;
+    document.querySelector('.left.sort.video').src = getVideoSource(leftChar);
+    document.querySelector('.right.sort.video').src = getVideoSource(rightChar);
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
     document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
@@ -349,6 +349,23 @@ function display() {
         }
     } else {
         saveProgress('Autosave');
+    }
+}
+
+/**
+ * Get source depending on source type.
+ *
+ * @param {CharData} char
+ */
+function getVideoSource(char) {
+    console.log(char.videoSource)
+    switch (char.videoSource) {
+        case VIDEOSOURCE.YOUTUBE:
+            return 'https://www.youtube.com/embed/' + char.videoId;
+        case VIDEOSOURCE.CATBOX:
+            return char.videoId;
+        default:
+            alert('Missing video source for ' + char.name);
     }
 }
 
@@ -400,7 +417,7 @@ function pick(sortType) {
                 choices += '1';
             }
             recordData('right');
-            while (tiedDataList[recordDataList [pointer - 1]] != -1) {
+            while (tiedDataList[recordDataList[pointer - 1]] != -1) {
                 recordData('right');
             }
             break;
@@ -423,7 +440,7 @@ function pick(sortType) {
             }
             tiedDataList[recordDataList[pointer - 1]] = sortedIndexList[rightIndex][rightInnerIndex];
             recordData('right');
-            while (tiedDataList[recordDataList [pointer - 1]] != -1) {
+            while (tiedDataList[recordDataList[pointer - 1]] != -1) {
                 recordData('right');
             }
             break;
@@ -557,7 +574,7 @@ function result(imageNum = 0) {
         const characterIndex = finalSortedIndexes[idx];
         const character = characterDataToSort[characterIndex];
         resultTable.insertAdjacentHTML('beforeend', res(character, rankNum));
-        finalCharacters.push({rank: rankNum, name: character.name});
+        finalCharacters.push({ rank: rankNum, name: character.name });
 
         if (idx < characterDataToSort.length - 1) {
             if (tiedDataList[characterIndex] === finalSortedIndexes[idx + 1]) {
@@ -666,7 +683,7 @@ function generateRanksAlphabetically() {
         str += `${char.rank} ${char.name}<br>`;
         return str;
     }, '');
-    
+
     const oWindow = window.open("", "", "height=640,width=480");
     oWindow.document.write(`
         <!DOCTYPE html>
@@ -798,10 +815,10 @@ function decodeQuery(queryString = window.location.search.slice(1)) {
          * If timestamp is before or after any of the datasets, get the closest one.
          * If timestamp is between any of the datasets, get the one in the past, but if timeError is set, get the one in the future.
          */
-        const seedDate = {str: timestamp, val: new Date(timestamp)};
+        const seedDate = { str: timestamp, val: new Date(timestamp) };
         const dateMap = Object.keys(dataSet)
             .map(date => {
-                return {str: date, val: new Date(date)};
+                return { str: date, val: new Date(date) };
             })
         const beforeDateIndex = dateMap
             .reduce((prevIndex, currDate, currIndex) => {

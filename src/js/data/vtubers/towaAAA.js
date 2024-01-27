@@ -2,6 +2,7 @@ export const towaAAA = [
     {
         name: "Adabana Necromancy",
         videoId: "mFLu8TKDsrk",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Polka", "Aqua", "Towa", "Flare", "Watame", "Miko"]
         }
@@ -9,6 +10,7 @@ export const towaAAA = [
     {
         name: "Akuma",
         videoId: "F1_OQXNF8b8",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -16,6 +18,7 @@ export const towaAAA = [
     {
         name: "Asu no Yozora Shoukaihan",
         videoId: "XpgSrULHibg",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Aqua", "Suisei"]
         }
@@ -23,6 +26,7 @@ export const towaAAA = [
     {
         name: "Asuiro Clear Sky",
         videoId: "UYyzAlbcw8w",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Flare", "Aki", "Mio", "Miko", "Aqua", "Matsuri", "Mel", "Roboco"]
         }
@@ -30,6 +34,7 @@ export const towaAAA = [
     {
         name: "Blooming in The Mud",
         videoId: "08J6WAmX100",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Baelz"]
         }
@@ -37,6 +42,7 @@ export const towaAAA = [
     {
         name: "Bocca della Verita",
         videoId: "64kI2BWRd2g",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -44,6 +50,7 @@ export const towaAAA = [
     {
         name: "born to be real",
         videoId: "D6AmCNdwT7E",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -51,6 +58,7 @@ export const towaAAA = [
     {
         name: "brilliant",
         videoId: "2D0B3wTjE20",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -58,6 +66,7 @@ export const towaAAA = [
     {
         name: "Can you do the hololive? Beyond the Stage ver",
         videoId: "mZ0sJQC8qkE",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -65,6 +74,7 @@ export const towaAAA = [
     {
         name: "Cat Loving",
         videoId: "ShXmOdYGuG8",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Okayu"]
         }
@@ -72,6 +82,7 @@ export const towaAAA = [
     {
         name: "Cynical Night Plan",
         videoId: "nWP8Wmho188",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Reine"]
         }
@@ -79,6 +90,7 @@ export const towaAAA = [
     {
         name: "Diamond Crevasse",
         videoId: "7AQi222UFrA",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "AZKi"]
         }
@@ -86,6 +98,7 @@ export const towaAAA = [
     {
         name: "ERROR",
         videoId: "3UV8OZj2olg",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -93,6 +106,7 @@ export const towaAAA = [
     {
         name: "EYE",
         videoId: "6uN99OAINAY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -100,6 +114,7 @@ export const towaAAA = [
     {
         name: "FACT",
         videoId: "Zc05le75CfI",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -107,6 +122,7 @@ export const towaAAA = [
     {
         name: "Gira Gira",
         videoId: "XXuMwJIAHsY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -114,6 +130,7 @@ export const towaAAA = [
     {
         name: "Haiiro to ao",
         videoId: "0firv69LkgI",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Suisei"]
         }
@@ -121,6 +138,7 @@ export const towaAAA = [
     {
         name: "Hearts",
         videoId: "wVfp1NPf928",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -128,6 +146,7 @@ export const towaAAA = [
     {
         name: "Hikaru Nara",
         videoId: "zu0DHyWBwpM",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Robocco", "Mel", "Lui", "Chloe"]
         }
@@ -135,6 +154,7 @@ export const towaAAA = [
     {
         name: "Hyakkisai",
         videoId: "2o_H09MdT94",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -142,6 +162,7 @@ export const towaAAA = [
     {
         name: "KING",
         videoId: "9RBY7u5qas8",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -149,6 +170,7 @@ export const towaAAA = [
     {
         name: "Kiseki Knot",
         videoId: "k7cpjmkc1Rw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata", "Luna", "Coco", "Watame"]
         }
@@ -156,6 +178,7 @@ export const towaAAA = [
     {
         name: "Kuroi Hitsuji",
         videoId: "ZQ3gmQzpvBM",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -163,6 +186,7 @@ export const towaAAA = [
     {
         name: "Kuusou Ressha",
         videoId: "p1lfwyWSGV4",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Aqua", "Suisei"]
         }
@@ -170,6 +194,7 @@ export const towaAAA = [
     {
         name: "Like a Phoenix",
         videoId: "TcwMO-QU3ak",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata"]
         }
@@ -177,6 +202,7 @@ export const towaAAA = [
     {
         name: "Madoromi",
         videoId: "23nEnPOXLEk",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata"]
         }
@@ -184,6 +210,7 @@ export const towaAAA = [
     {
         name: "Midnight Runaway",
         videoId: "MT5F4GzNNQw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -191,6 +218,7 @@ export const towaAAA = [
     {
         name: "My roar",
         videoId: "uNQIltgLlgo",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -198,6 +226,7 @@ export const towaAAA = [
     {
         name: "Ochame Kinou",
         videoId: "9kQ2GtvDV3s",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -205,6 +234,7 @@ export const towaAAA = [
     {
         name: "Over Time",
         videoId: "5ArDbvfds9k",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata"]
         }
@@ -212,6 +242,7 @@ export const towaAAA = [
     {
         name: "Palette",
         videoId: "Ud73fm4Uoq0",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -219,6 +250,7 @@ export const towaAAA = [
     {
         name: "Pray",
         videoId: "9uyK-EMEDgA",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata"]
         }
@@ -226,6 +258,7 @@ export const towaAAA = [
     {
         name: "Prism Melody",
         videoId: "1fX6qYFXemY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -233,6 +266,7 @@ export const towaAAA = [
     {
         name: "QUEEN",
         videoId: "_8L2KJeoHGo",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -240,6 +274,7 @@ export const towaAAA = [
     {
         name: "Raimei",
         videoId: "TfOx00AOfKo",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -247,6 +282,7 @@ export const towaAAA = [
     {
         name: "Remote Control",
         videoId: "SVVyG36QwqI",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Nene"]
         }
@@ -254,6 +290,7 @@ export const towaAAA = [
     {
         name: "Sakura no Ame",
         videoId: "D8pdSRs_C4o",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Miko", "Aki", "Omaru", "Iroha"]
         }
@@ -261,6 +298,7 @@ export const towaAAA = [
     {
         name: "Sanvitalia",
         videoId: "ScTHsLH_0js",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -268,6 +306,7 @@ export const towaAAA = [
     {
         name: "Shiny Smily Story 2022 ver",
         videoId: "i_Cm8Jbvc-4",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -275,6 +314,7 @@ export const towaAAA = [
     {
         name: "Stardust Song by",
         videoId: "LiJBEm9v5Nw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata", "Flare"]
         }
@@ -282,6 +322,7 @@ export const towaAAA = [
     {
         name: "Tonde K! hololive summer",
         videoId: "zHD5MCUezVo",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -289,6 +330,7 @@ export const towaAAA = [
     {
         name: "U.F.O. - U Feel Overjoyed!",
         videoId: "HBmss54l5zc",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -296,6 +338,7 @@ export const towaAAA = [
     {
         name: "Usseewa",
         videoId: "S-VngJTUdmE",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Kanata"]
         }
@@ -303,6 +346,7 @@ export const towaAAA = [
     {
         name: "Yokusou to Neon Tetra",
         videoId: "HM_El_RDfLY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Okayu"]
         }
@@ -310,6 +354,7 @@ export const towaAAA = [
     {
         name: "W/X/Y",
         videoId: "fmDHfS0fXm4",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -317,6 +362,7 @@ export const towaAAA = [
     {
         name: "Lavie",
         videoId: "HUup3W2aMgk",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -324,6 +370,7 @@ export const towaAAA = [
     {
         name: "Identity",
         videoId: "_ByrYK3oppY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa", "Baelz"]
         }
@@ -331,6 +378,7 @@ export const towaAAA = [
     {
         name: "ANEMONE",
         videoId: "G3J06ircgMA",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }
@@ -338,6 +386,7 @@ export const towaAAA = [
     {
         name: "Twilight",
         videoId: "U8Pl7dXU280",
+        videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
             singer: ["Towa"]
         }

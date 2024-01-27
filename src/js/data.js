@@ -1,6 +1,6 @@
 /**
  * @typedef {{name: string, key: string, tooltip?: string, checked?: boolean, sub?: {name: string, tooltip?: string, checked?: string}[]}[]} Options
- * @typedef {{name: string, img: string, opts: Object<string, boolean|number[]}[]} CharData
+ * @typedef {{name: string, img?: string, videoId: string, videoSource: videoSource, opts: Object<string, boolean|number[]}[]} CharData
 */
 
 /**
@@ -21,3 +21,8 @@ let dataSetVersion = '';
  * Image root, will be appended to the start of every image URL.
  */
 const imageRoot = 'https://i.imgur.com/';
+
+const VIDEOSOURCE = {
+    YOUTUBE: 'YOUTUBE',
+    CATBOX: 'CATBOX'
+}
