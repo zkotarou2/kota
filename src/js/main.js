@@ -326,8 +326,8 @@ function display() {
     progressBar(`Battle No. ${battleNo}`, percent);
 
 
-    document.querySelector('.left.sort.video').src = getVideoSource(leftChar);
-    document.querySelector('.right.sort.video').src = getVideoSource(rightChar);
+    getVideoSource(document.querySelector('.left.sort.video'), leftChar);
+    getVideoSource(document.querySelector('.right.sort.video'), rightChar);
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
     document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
@@ -355,15 +355,19 @@ function display() {
 /**
  * Get source depending on source type.
  *
+ * @param {HTMLVideoElement} video
  * @param {CharData} char
  */
-function getVideoSource(char) {
-    console.log(char.videoSource)
+function getVideoSource(video, char) {
     switch (char.videoSource) {
         case VIDEOSOURCE.YOUTUBE:
-            return 'https://www.youtube.com/embed/' + char.videoId;
+            video.src = 'https://www.youtube-nocookie.com/embed/' + char.videoId;
+            // video.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
+            return;
         case VIDEOSOURCE.CATBOX:
-            return char.videoId;
+            video.src = char.videoId;
+            //video.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
+            return;
         default:
             alert('Missing video source for ' + char.name);
     }
