@@ -318,7 +318,7 @@ function display() {
     const rightChar = characterDataToSort[rightCharIndex];
 
     const charNameDisp = name => {
-        const charName = reduceTextWidth(name, 'Arial 12.8px', 220);
+        const charName = reduceTextWidth(name, 'Arial 12.8px', 370);
         const charTooltip = name !== charName ? name : '';
         return `<p title="${charTooltip}">${charName}</p>`;
     };
@@ -326,8 +326,8 @@ function display() {
     progressBar(`Battle No. ${battleNo}`, percent);
 
 
-    getVideoSource(document.querySelector('.left.sort.video'), leftChar);
-    getVideoSource(document.querySelector('.right.sort.video'), rightChar);
+    getVideoSource(leftChar, true);
+    getVideoSource(rightChar, false);
 
     document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
     document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
@@ -355,19 +355,29 @@ function display() {
 /**
  * Get source depending on source type.
  *
- * @param {HTMLVideoElement} video
  * @param {CharData} char
+ * @param {boolean} isLeft
  */
-function getVideoSource(video, char) {
+function getVideoSource(char, isLeft) {
+    const side = isLeft ? '.left' : '.right';
+    const videoIframe = document.querySelector(side + '.sort.iframe');
+    const video = document.querySelector(side + '.sort.video');
+    videoIframe.volume = 0.5;
+    video.volume = 0.5;
+
     switch (char.videoSource) {
         case VIDEOSOURCE.YOUTUBE:
-            video.src = 'https://www.youtube-nocookie.com/embed/' + char.videoId;
-            // video.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
-            return;
+            video.style.display = 'none';
+            video.src = '';
+            videoIframe.style.display = 'flex';
+            videoIframe.src = 'https://www.youtube-nocookie.com/embed/' + char.videoId;
+            break;
         case VIDEOSOURCE.CATBOX:
+            videoIframe.style.display = 'none';
+            videoIframe.src = '';
+            video.style.display = 'flex';
             video.src = char.videoId;
-            //video.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
-            return;
+            break;
         default:
             alert('Missing video source for ' + char.name);
     }
