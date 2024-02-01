@@ -12,8 +12,6 @@ dataSet[dataSetVersion].options = [
         tooltip: "Check this to show songs containing these vtubers",
         checked: true,
         sub: [
-            {name: "Tokoyami Towa", key: "Towa", checked: false},
-            {name: "Hoshimachi Suisei", key: "Suisei", checked: false},
             {name: "Minato Aqua", key: "INS", checked: false},
             {name: "Anime Openings", key: "OP", checked: false},
             {name: "Anime Endings", key: "ED", checked: true}
