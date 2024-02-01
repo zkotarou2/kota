@@ -14,9 +14,9 @@ dataSet[dataSetVersion].options = [
         sub: [
             {name: "Tokoyami Towa", key: "Towa", checked: false},
             {name: "Hoshimachi Suisei", key: "Suisei", checked: false},
-            {name: "Minato Aqua", key: "Aqua", checked: false},
-            {name: "Anime Openings", key: "AnimeOps", checked: false},
-            {name: "Anime Endings", key: "AnimeEds", checked: true}
+            {name: "Minato Aqua", key: "INS", checked: false},
+            {name: "Anime Openings", key: "OP", checked: false},
+            {name: "Anime Endings", key: "ED", checked: true}
         ]
     }
 ];
