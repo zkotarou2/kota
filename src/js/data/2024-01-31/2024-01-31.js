@@ -12,9 +12,9 @@ dataSet[dataSetVersion].options = [
         tooltip: "Check this to show songs containing these vtubers",
         checked: true,
         sub: [
-            {name: "Minato Aqua", key: "INS", checked: false},
-            {name: "Anime Openings", key: "OP", checked: false},
-            {name: "Anime Endings", key: "ED", checked: true}
+            {name: "INS", key: "INS", checked: false},
+            {name: "OP", key: "OP", checked: false},
+            {name: "ED", key: "ED", checked: true}
         ]
     }
 ];
