@@ -265,7 +265,7 @@ export const animeEndings = [
     },
     {
         name: "Psycho-Pass - Namae no Nai Kaibutsu by EGOIST",
-        videoId: "https://nl.catbox.video/tbrtsa.webm",
+        videoId: "https://nl.catbox.video/z97gkl.webm",
         videoSource: VIDEOSOURCE.CATBOX,
         opts: {
             singer: ["AnimeEds"]
