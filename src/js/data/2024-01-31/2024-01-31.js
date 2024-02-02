@@ -7,13 +7,13 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
     {
-        name: "Filter by vtubers or miscellaneous",
+        name: "Filter by type of songs",
         key: "singer",
-        tooltip: "Check this to show songs containing these vtubers",
+        tooltip: "Check this to show songs",
         checked: true,
         sub: [
-            {name: "INS", key: "INS", checked: false},
-            {name: "OP", key: "OP", checked: false},
+            {name: "INS", key: "INS", checked: true},
+            {name: "OP", key: "OP", checked: true},
             {name: "ED", key: "ED", checked: true}
         ]
     }
