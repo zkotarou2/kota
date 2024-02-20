@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
     name: "Argento Soma - \"Horizon\" by Sphere",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -11,7 +11,7 @@ export const animeEndings = [
   },
   {
     name: "Ayashi no Ceres  - \"Cross My Heart\" by DAY-BREAK",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -21,7 +21,7 @@ export const animeEndings = [
   },
   {
     name: "Boogiepop wa Warawanai - \"Yuudachi\" by Shikao Suga",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -31,7 +31,7 @@ export const animeEndings = [
   },
   {
     name: "Brigadoon: Marin to Melan - \"Kaze no Ao, Umi no Midori \" by Ikuko",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -41,7 +41,7 @@ export const animeEndings = [
   },
   {
     name: "Cardcaptor Sakura Movie 2: Fuuin Sareta Card - \"Ashita e no Melody\" by CHAKA    ",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -51,7 +51,7 @@ export const animeEndings = [
   },
   {
     name: "Daa! Daa! Daa! - \"BOY MEETS GIRL\" by TRF",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -61,7 +61,7 @@ export const animeEndings = [
   },
   {
     name: "Di Gi Charat Christmas Special - \"Megami ni Naritai\" by Masami Okui",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -71,7 +71,7 @@ export const animeEndings = [
   },
   {
     name: "Di Gi Charat Summer Special 2000 - \"CUTIE\" by Masami Okui",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -81,7 +81,7 @@ export const animeEndings = [
   },
   {
     name: "Digimon Adventure 02 - \"Break Up!\" by Ayumi Miyazaki",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -91,7 +91,7 @@ export const animeEndings = [
   },
   {
     name: "Escaflowne: The Movie - \"Yubiwa\" by Maaya Sakamoto",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -101,7 +101,7 @@ export const animeEndings = [
   },
   {
     name: "eX-Driver - \"Sniper \" by MILK",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -111,7 +111,7 @@ export const animeEndings = [
   },
   {
     name: "Gakkou no Kaidan - \"sexy sexy\" by CASCADE",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -121,7 +121,7 @@ export const animeEndings = [
   },
   {
     name: "Gate Keepers -  \"Asu no Egao no Tame ni (Special Version)\" by Yumi Matsuzawa",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -131,7 +131,7 @@ export const animeEndings = [
   },
   {
     name: "Gensoumaden Saiyuuki - \"STILL TIME\" by Hidenori Tokuyama",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -141,7 +141,7 @@ export const animeEndings = [
   },
   {
     name: "Grandeek: Gaiden - \"Umi no Mieru Oka de\" by Rie Tanaka",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -151,7 +151,7 @@ export const animeEndings = [
   },
   {
     name: "GTO - \"Shizuku\" by Okuda Miwaku ",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -161,7 +161,7 @@ export const animeEndings = [
   },
   {
     name: "GTO - \"Hitori no Yoru\" by Porno Graffitti",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -171,7 +171,7 @@ export const animeEndings = [
   },
   {
     name: "Hajime no Ippo - \"Under Star\" by Shocking Lemons",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -181,7 +181,7 @@ export const animeEndings = [
   },
   {
     name: "Inuyasha - \"Change the World\" by V6",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -191,7 +191,7 @@ export const animeEndings = [
   },
   {
     name: "Karakuri Kiden: Hiwou Senki - 'CROSSROAD\" by Kumiko Endou",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -201,7 +201,7 @@ export const animeEndings = [
   },
   {
     name: "Kirara - \"Smile Again\" by Elika",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -211,7 +211,7 @@ export const animeEndings = [
   },
   {
     name: "Love Hina - \"Yakusoku\" by Yui Horie",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -221,7 +221,7 @@ export const animeEndings = [
   },
   {
     name: "Lupin III: $1 Money Wars - \"Life's a Flame\" by You & Explosion Band featuring Lileth",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -231,7 +231,7 @@ export const animeEndings = [
   },
   {
     name: "Megami Kouhosei - \"Chance\" by Koizumi Kouhei",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -241,7 +241,7 @@ export const animeEndings = [
   },
   {
     name: "Meitantei Conan  - \"Koi wa Thrill, Shock, Suspense\" by Rina Aiuchi",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -251,7 +251,7 @@ export const animeEndings = [
   },
   {
     name: "Platinumhugen Ordian - \"Eien no Remake\" by Yuumi Kobayashi",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -261,7 +261,7 @@ export const animeEndings = [
   },
   {
     name: "Shin Getter Robo tai Neo Getter Robo - \"Storm\" by JAM Project featuring Ichiro Mizuki",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -271,7 +271,7 @@ export const animeEndings = [
   },
   {
     name: "Strange Dawn - \"Sora e\" by Eri Kawai",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -281,7 +281,7 @@ export const animeEndings = [
   },
   {
     name: "Vandread - \"Trust\" by Salia",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -291,7 +291,7 @@ export const animeEndings = [
   },
   {
     name: "Yami no Matsuei - \"EDEN\" by TO DESTINATION",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
@@ -301,7 +301,7 @@ export const animeEndings = [
   },
   {
     name: "Zoids - \"Your Song\" by Earth",
-    videoId: "gXpM4l_MwI",
+    videoId: "pgXpM4l_MwI",
     videoSource: "VIDEOSOURCE.YOUTUBE",
     opts: {
       singer: [
