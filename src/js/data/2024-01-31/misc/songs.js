@@ -1,4 +1,4 @@
-export const animeEndings = [
+export const songs = [
 	{
     name: "Bleach - Houkiboshi by Younha",
     videoId : "https://ladist1.catbox.video/gqlj8v.webm",
