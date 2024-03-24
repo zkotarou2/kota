@@ -5,7 +5,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "ED 3"
+        "ED"
         ]
     }
 },
@@ -15,7 +15,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "ED 1"
+        "ED"
         ]
     }
 },
@@ -25,7 +25,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP 2"
+        "OP"
         ]
     }
 },
@@ -35,7 +35,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "ED 1"
+        "ED"
         ]
     }
 },{
@@ -44,7 +44,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP 1"
+        "OP"
         ]
     }
 }
