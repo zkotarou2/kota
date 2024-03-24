@@ -563,9 +563,12 @@ function result(imageNum = 0) {
     document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'none');
     document.querySelector('.options').style.display = 'none';
     document.querySelector('.info').style.display = 'none';
+    
+    const header = '<div class="result head" style="font-size: 20px;"><div class="left" style="font-size: 20px;">Order</div><div class="right" style="font-size: 20px;">Name</div></div>';
+    const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. You can now you can copy paste your rank with 'Generate Text list aphabetically'. <a href="${location.protocol}//${sorterURL}" style="font-size: 20px;">Do another sorter?</a>`;
 
-    const header = '<div class="result head"><div class="left">Order</div><div class="right">Name</div></div>';
-    const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Do another sorter?</a>`;
+    //const header = '<div class="result head"><div class="left">Order</div><div class="right">Name</div></div>';
+    //const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Do another sorter?</a>`;
 
     const res = (char, num) => {
         const charName = reduceTextWidth(char.name, 'Arial 12px', 160);
