@@ -564,8 +564,8 @@ function result(imageNum = 0) {
     document.querySelector('.options').style.display = 'none';
     document.querySelector('.info').style.display = 'none';
     
-    const header = '<div class="result head" style="font-size: 15px;"><div class="left" style="font-size: 15px;">Order</div><div class="right" style="font-size: 15px;">Name</div></div>';
-    const timeStr = `<span style="font-size: 15px;">Copy paste your rank with 'Generate Text List Alphabetically'.</span> This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}" style="font-size: 15px;">Do another sorter?</a>`;
+    const header = '<div class="result head" style="font-size: 20px;"><div class="left" style="font-size: 20px;">Order</div><div class="right" style="font-size: 20px;">Name</div></div>';
+    const timeStr = `<span style="font-size: 20px;">Copy paste your rank with 'Generate Text List Alphabetically'.</span><br><span style="font-size: 10px;">This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}.</span><br><span style="font-size: 10px;"><a href="${location.protocol}//${sorterURL}">Do another sorter?</a></span>`;
     
     //const header = '<div class="result head"><div class="left">Order</div><div class="right">Name</div></div>';
     //const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()} and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Do another sorter?</a>`;
