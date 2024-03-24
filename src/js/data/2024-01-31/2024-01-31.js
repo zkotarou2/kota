@@ -1,4 +1,4 @@
-import {animeEndings} from "./misc/animeEds.js";
+import {songs} from "./misc/songs.js";
 
 dataSetVersion = "2024-01-31"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
@@ -18,5 +18,5 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-    ...animeEndings
+    ...songs
 ];
