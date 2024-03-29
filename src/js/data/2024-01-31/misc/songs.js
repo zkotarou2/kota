@@ -26,7 +26,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP2"
+        "OP"
         ]
     }
 },
@@ -56,7 +56,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
@@ -76,7 +76,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
@@ -86,7 +86,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP2"
+        "OP"
         ]
     }
 },
@@ -106,7 +106,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP2"
+        "OP"
         ]
     }
 },
@@ -116,7 +116,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
@@ -186,7 +186,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
@@ -206,7 +206,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP4"
+        "OP"
         ]
     }
 },
@@ -216,7 +216,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP2"
+        "OP"
         ]
     }
 },
@@ -236,7 +236,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
@@ -256,7 +256,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP51"
+        "OP"
         ]
     }
 },
@@ -266,7 +266,7 @@ export const songs = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP1"
+        "OP"
         ]
     }
 },
