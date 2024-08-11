@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Alice to Zouroku - Wonder Drive by ORESAMA",
-    videoId : "https://nl.catbox.video/kl3z4w.webm",
+    name: "Lupin the Third: Mine Fujiko to Iu Onna - Duty Friend by NIKIIE",
+    videoId : "https://nl.catbox.video/ty9egp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bungo Stray Dogs 2 - Reason Living by SCREEN mode",
-    videoId : "https://nl.catbox.video/fasdl1.webm",
+    name: "Hai to Gensou no Grimgar - Harvest by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/hg5csx.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tensei Shitara Slime Datta Ken - Meguru Mono by Takuma Terashima",
-    videoId : "https://nl.catbox.video/qtw27u.webm",
+    name: "Hai to Gensou no Grimgar - Cultivate by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/qy8p8r.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Flip Flappers - Serendipity by ZAQ",
-    videoId : "https://nl.catbox.video/qr7dp1.webm",
+    name: "Hai to Gensou no Grimgar - rainy tone by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/rpk4fm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "ACCA 13-ku Kansatsu-ka - Shadow and Truth by ONE III NOTES",
-    videoId : "https://nl.catbox.video/gdbuzd.webm",
+    name: "Hai to Gensou no Grimgar - seeds by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/i56l1p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Dororo - Kaen by Ziyoou-vachi",
-    videoId : "https://nl.catbox.video/nguams.webm",
+    name: "Hai to Gensou no Grimgar - sun will rise by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/4jj1fj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Eureka Seven - Shounen Heart by HOME MADE Kazoku",
-    videoId : "https://nl.catbox.video/hccohi.webm",
+    name: "Sakura Quest - Morning Glory by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/rr0rdm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kakuriyo no Yadomeshi - Tomoshibi no Manimani by Nao Touyama",
-    videoId : "https://nl.catbox.video/10w3nm.webm",
+    name: "Sakura Quest - Baby's breath by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/odxzn2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mahoujin Guruguru - Ryuusei Dance Floor by ORESAMA",
-    videoId : "https://nl.catbox.video/p0edvh.webm",
+    name: "Sakura Quest - thyme by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/2fm1wi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardcaptor Sakura - Platinum by Maaya Sakamoto",
-    videoId : "https://nl.catbox.video/wntw9t.webm",
+    name: "Fairy Gone - Ash-like Snow by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/90ezsl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shadowverse F - Tick-Tock by NEWS",
-    videoId : "https://nl.catbox.video/wgqq4b.webm",
+    name: "Fairy Gone - Danse Dance by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/1gbwgr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Jujutsu Kaisen 2nd Season - Ao no Sumika by Tatsuya Kitani",
-    videoId : "https://nl.catbox.video/589lde.webm",
+    name: "Fairy Gone - Forest Gleam by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/27rmfq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tsurune - Naru by Luck Life",
-    videoId : "https://nl.catbox.video/tsm12k.webm",
+    name: "Fairy Gone - blowball by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/kdxr1l.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "King of Prism: PRIDE the HERO - pride by Shouta Aoi",
-    videoId : "https://nl.catbox.video/3m47p6.webm",
+    name: "Fairy Gone - Hertzsprung gap by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
+    videoId : "https://nl.catbox.video/yqwruc.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +141,8 @@ export const songs = [
     }
 },
 	{
-    name: "Saiyuki Reload: Zeroin - Kami mo Hotoke mo by GRANRODEO",
-    videoId : "https://nl.catbox.video/92soq2.webm",
+    name: "Fairy Gone - STILL STANDING by (K)NoW_NAME:Ayaka Tachibana & NIKIIE & AIJ",
+    videoId : "https://nl.catbox.video/b48abm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -151,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "Moeyo Ken - Toki no Musoubana by Hiromi Satou",
-    videoId : "https://nl.catbox.video/xhmok4.webm",
+    name: "Fairy Gone - Red dog chases by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/4vv2lx.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -161,8 +161,8 @@ export const songs = [
     }
 },
 	{
-    name: "Princess Principal: Crown Handler - LIES & TIES by Void_Chords feat. Yui Mugino",
-    videoId : "https://nl.catbox.video/22z9zi.webm",
+    name: "Fairy Gone - Everlast... by (K)NoW_NAME:NIKIIE & AIJ",
+    videoId : "https://nl.catbox.video/uq2nsj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,8 +171,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yofukashi no Uta - Daten by Creepy Nuts",
-    videoId : "https://nl.catbox.video/2p06fq.webm",
+    name: "Dorohedoro - Who am I? by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
+    videoId : "https://nl.catbox.video/i7swn3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -181,8 +181,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bara-Ou no Souretsu - Ware, Bara ni Insu by Makoto Furukawa",
-    videoId : "https://nl.catbox.video/twfjue.webm",
+    name: "Dorohedoro - D.D.D.D. by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/timams.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -191,8 +191,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gunjou no Fanfare - Move the soul by JO1",
-    videoId : "https://nl.catbox.video/3erpl8.webm",
+    name: "Dorohedoro - SECONDs FLY by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/i7edi3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -201,8 +201,8 @@ export const songs = [
     }
 },
 	{
-    name: "Naruto - Tada Yowai dake ja Nakute Bokura wa... by Mass Alert",
-    videoId : "https://nl.catbox.video/0mg65q.webm",
+    name: "Dorohedoro - 404 by (K)NoW_NAME:NIKIIE & AIJ",
+    videoId : "https://nl.catbox.video/z9xssy.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -211,8 +211,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hanyou no Yashahime: Ni no Shou - Kyoumei by SixTONES",
-    videoId : "https://nl.catbox.video/c5fx19.webm",
+    name: "Spy × Family - Breeze by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/is51b0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -221,8 +221,8 @@ export const songs = [
     }
 },
 	{
-    name: "Nodame Cantabile: Finale - Manazashi☆Daydream by Yu Sakai",
-    videoId : "https://nl.catbox.video/vp6g8x.webm",
+    name: "Spy × Family - GOOD DAY by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/r8pmce.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -231,8 +231,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sousei no Aquarion - Sousei no Aquarion by AKINO",
-    videoId : "https://nl.catbox.video/gzn49c.webm",
+    name: "Spy × Family - Little steps by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/q1gwh4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -241,48 +241,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardfight!! Vanguard G NEXT - Hello, Mr. Wonder land by Ayako Nakanomori",
-    videoId : "https://nl.catbox.video/4d0bo7.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Meitantei Conan - Makka na Lip by WANDS",
-    videoId : "https://nl.catbox.video/whydg0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Rinne no Lagrange - TRY UNITE! by Megumi Nakajima",
-    videoId : "https://nl.catbox.video/tbeskr.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Sarazanmai - Massara by KANA-BOON",
-    videoId : "https://nl.catbox.video/360nwx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Bucchigiri?! - Sesame by Kroi",
-    videoId : "https://nl.catbox.video/x39qt6.webm",
+    name: "Spy × Family - Garden by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/2fv70p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -290,8 +250,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Gurazeni - Merry Go by Cypress Ueno to Robert Yoshino feat. SKY-HI",
-    videoId : "https://nl.catbox.video/iqem1m.webm",
+    name: "Spy × Family - uneven fruit by (K)NoW_NAME:NIKIIE",
+    videoId : "https://nl.catbox.video/07824z.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
