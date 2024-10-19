@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Lupin the Third: Mine Fujiko to Iu Onna - Duty Friend by NIKIIE",
-    videoId : "https://nl.catbox.video/ty9egp.webm",
+    name: "in the garden of sinners",
+    videoId : "https://naedist.animemusicquiz.com/848pq9.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,88 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - Harvest by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/hg5csx.webm",
+    name: "oblivious",
+    videoId : "https://naedist.animemusicquiz.com/6ocmdl.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Kimi ga Hikari ni Kaete Iku",
+    videoId : "https://naedist.animemusicquiz.com/k6x2lj.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Kizuato",
+    videoId : "https://naedist.animemusicquiz.com/y1eptl.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "ARIA",
+    videoId : "https://naedist.animemusicquiz.com/ga1xqy.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "sprinter",
+    videoId : "https://naedist.animemusicquiz.com/tryne0.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "fairytale",
+    videoId : "https://naedist.animemusicquiz.com/ykasjl.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "seventh heaven",
+    videoId : "https://naedist.animemusicquiz.com/yniswb.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Lacrimosa",
+    videoId : "https://naedist.animemusicquiz.com/7sp0sx.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Hikari no Senritsu",
+    videoId : "https://naedist.animemusicquiz.com/mbif4g.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +101,38 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - Cultivate by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/qy8p8r.webm",
+    name: "Kagayaku Sora no Shijima ni wa",
+    videoId : "https://naedist.animemusicquiz.com/dekfld.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "I have a dream",
+    videoId : "https://naedist.animemusicquiz.com/a17dto.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Magia",
+    videoId : "https://naedist.animemusicquiz.com/oxxgq4.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "to the beginning",
+    videoId : "https://naedist.animemusicquiz.com/gp3kzc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +141,88 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - rainy tone by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/rpk4fm.webm",
+    name: "Manten",
+    videoId : "https://naedist.animemusicquiz.com/cnj527.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Magia [quattro]",
+    videoId : "https://naedist.animemusicquiz.com/1082w5.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Mirai",
+    videoId : "https://naedist.animemusicquiz.com/sdsfgb.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "INS"
+        ]
+    }
+},
+	{
+    name: "Hikari Furu",
+    videoId : "https://naedist.animemusicquiz.com/yhz3sw.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Kimi no Gin no Niwa",
+    videoId : "https://naedist.animemusicquiz.com/xyyxix.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "misterioso",
+    videoId : "https://naedist.animemusicquiz.com/yhot40.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "INS"
+        ]
+    }
+},
+	{
+    name: "Allelujah",
+    videoId : "https://naedist.animemusicquiz.com/2ag6e0.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "believe",
+    videoId : "https://naedist.animemusicquiz.com/1fxcrv.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "heavenly blue",
+    videoId : "https://naedist.animemusicquiz.com/52x76t.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,221 +231,121 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - seeds by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/i56l1p.webm",
+    name: "One Light",
+    videoId : "https://naedist.animemusicquiz.com/11sdp2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP"
+        "ED"
         ]
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - sun will rise by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/4jj1fj.webm",
+    name: "ring your bell",
+    videoId : "https://naedist.animemusicquiz.com/d7s9nc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Sakura Quest - Morning Glory by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/rr0rdm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Sakura Quest - Baby's breath by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/odxzn2.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Sakura Quest - thyme by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/2fm1wi.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Ash-like Snow by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/90ezsl.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Danse Dance by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/1gbwgr.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Forest Gleam by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/27rmfq.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - blowball by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/kdxr1l.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Hertzsprung gap by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
-    videoId : "https://nl.catbox.video/yqwruc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - STILL STANDING by (K)NoW_NAME:Ayaka Tachibana & NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/b48abm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Red dog chases by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/4vv2lx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Everlast... by (K)NoW_NAME:NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/uq2nsj.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - Who am I? by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
-    videoId : "https://nl.catbox.video/i7swn3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - D.D.D.D. by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/timams.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - SECONDs FLY by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/i7edi3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - 404 by (K)NoW_NAME:NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/z9xssy.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Breeze by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/is51b0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - GOOD DAY by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/r8pmce.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Little steps by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/q1gwh4.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Garden by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/2fv70p.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
+        "ED"
         ]
     }
 },{
-    name: "Spy × Family - uneven fruit by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/07824z.webm",
+    name: "ring your bell (in the silence)",
+    videoId : "https://naedist.animemusicquiz.com/quk9ek.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "blaze",
+    videoId : "https://naedist.animemusicquiz.com/cr3tel.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Märchen",
+    videoId : "https://naedist.animemusicquiz.com/krlltb.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "reconstructing a full picture",
+    videoId : "https://naedist.animemusicquiz.com/ajubs0.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "INS"
+        ]
+    }
+},
+	{
+    name: "old fashioned fairy tale",
+    videoId : "https://naedist.animemusicquiz.com/bhqf26.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "INS"
+        ]
+    }
+},
+	{
+    name: "Hyakka Ryouran",
+    videoId : "https://naedist.animemusicquiz.com/51izi2.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "dolce",
+    videoId : "https://naedist.animemusicquiz.com/sopmfj.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "snow is falling",
+    videoId : "https://naedist.animemusicquiz.com/fiisdu.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "Finale",
+    videoId : "https://naedist.animemusicquiz.com/cme8s6.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
         "OP"
+        ]
+    }
+},
+	{
+    name: "interlude#1",
+    videoId : "https://naedist.animemusicquiz.com/t84m43.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
         ]
     }
 }
