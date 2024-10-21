@@ -1,9 +1,9 @@
 
 export const songs = [
 	{
-    name: "1. in the garden of sinners",
-    videoId : "https://naedist.animemusicquiz.com/848pq9.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "1. Dandadan",
+    videoId : "https://www.youtube.com/watch?v=ovW7yRi1iJ8",
+    videoSource: https://www.youtube.com/watch?v=ovW7yRi1iJ8,
     opts:{
         singer:[
         "OP"
