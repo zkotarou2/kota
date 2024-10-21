@@ -2,7 +2,7 @@
 export const songs = [
 	{
     name: "1. Dandadan",
-    videoId : "https://www.youtube.com/watch?v=ovW7yRi1iJ8",
+    videoId : "https://naedist.animemusicquiz.com/1wk774.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
