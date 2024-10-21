@@ -3,7 +3,7 @@ export const songs = [
 	{
     name: "1. Dandadan",
     videoId : "https://www.youtube.com/watch?v=ovW7yRi1iJ8",
-    videoSource: https://www.youtube.com/watch?v=ovW7yRi1iJ8,
+    videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
         "OP"
