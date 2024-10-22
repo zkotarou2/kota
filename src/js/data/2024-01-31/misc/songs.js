@@ -1,352 +1,352 @@
-
-export const songs = [
-	{
-    name: "1. Dandadan",
-    videoId : "https://naedist.animemusicquiz.com/1wk774.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
+export const animeEndings = [
+  {
+    name: "Dandadan",
+    videoId: "ovW7yRi1iJ8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
         "OP"
-        ]
+      ]
     }
-},
-	{
-    name: "2. oblivious",
-    videoId : "https://naedist.animemusicquiz.com/6ocmdl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "3. Kimi ga Hikari ni Kaete Iku",
-    videoId : "https://naedist.animemusicquiz.com/k6x2lj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "4. Kizuato",
-    videoId : "https://naedist.animemusicquiz.com/y1eptl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "5. ARIA",
-    videoId : "https://naedist.animemusicquiz.com/ga1xqy.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "6. sprinter",
-    videoId : "https://naedist.animemusicquiz.com/tryne0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "7. fairytale",
-    videoId : "https://naedist.animemusicquiz.com/ykasjl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "8. seventh heaven",
-    videoId : "https://naedist.animemusicquiz.com/yniswb.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "9. Lacrimosa",
-    videoId : "https://naedist.animemusicquiz.com/7sp0sx.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "10. Hikari no Senritsu",
-    videoId : "https://naedist.animemusicquiz.com/mbif4g.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
+  },
+  {
+    name: "Puniru wa Kawaii Slime",
+    videoId: "pNBnUIbkbmA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
         "OP"
-        ]
+      ]
     }
-},
-	{
-    name: "11. Kagayaku Sora no Shijima ni wa",
-    videoId : "https://naedist.animemusicquiz.com/dekfld.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "12. I have a dream",
-    videoId : "https://naedist.animemusicquiz.com/a17dto.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "13. Magia",
-    videoId : "https://naedist.animemusicquiz.com/oxxgq4.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "14. to the beginning",
-    videoId : "https://naedist.animemusicquiz.com/gp3kzc.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
+  },
+  {
+    name: "Tasuuketsu",
+    videoId: "fK6Utxr_1Xo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
         "OP"
-        ]
+      ]
     }
-},
-	{
-    name: "15. Manten",
-    videoId : "https://naedist.animemusicquiz.com/cnj527.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "16. Magia [quattro]",
-    videoId : "https://naedist.animemusicquiz.com/1082w5.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "17. Mirai",
-    videoId : "https://naedist.animemusicquiz.com/sdsfgb.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "18. Hikari Furu",
-    videoId : "https://naedist.animemusicquiz.com/yhz3sw.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "19. Kimi no Gin no Niwa",
-    videoId : "https://naedist.animemusicquiz.com/xyyxix.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "20. misterioso",
-    videoId : "https://naedist.animemusicquiz.com/yhot40.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "21. Allelujah",
-    videoId : "https://naedist.animemusicquiz.com/2ag6e0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "22. believe",
-    videoId : "https://naedist.animemusicquiz.com/1fxcrv.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "23. heavenly blue",
-    videoId : "https://naedist.animemusicquiz.com/52x76t.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
+  },
+  {
+    name: "Sword Art Online Alternative: Gun Gale Online II",
+    videoId: "6wMpA2muYt8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
         "OP"
-        ]
+      ]
     }
-},
-	{
-    name: "24. One Light",
-    videoId : "https://naedist.animemusicquiz.com/11sdp2.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "25. ring your bell",
-    videoId : "https://naedist.animemusicquiz.com/d7s9nc.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},{
-    name: "26. ring your bell (in the silence)",
-    videoId : "https://naedist.animemusicquiz.com/quk9ek.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "27. blaze",
-    videoId : "https://naedist.animemusicquiz.com/cr3tel.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "28. Märchen",
-    videoId : "https://naedist.animemusicquiz.com/krlltb.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "29. reconstructing a full picture",
-    videoId : "https://naedist.animemusicquiz.com/ajubs0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "30. old fashioned fairy tale",
-    videoId : "https://naedist.animemusicquiz.com/bhqf26.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "31. Hyakka Ryouran",
-    videoId : "https://naedist.animemusicquiz.com/51izi2.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "32. dolce",
-    videoId : "https://naedist.animemusicquiz.com/sopmfj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "33. snow is falling",
-    videoId : "https://naedist.animemusicquiz.com/fiisdu.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "34. Finale",
-    videoId : "https://naedist.animemusicquiz.com/cme8s6.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
+  },
+  {
+    name: "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    videoId: "M5wza_yOe2k",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
         "OP"
-        ]
+      ]
     }
-},
-	{
-    name: "35. interlude#1",
-    videoId : "https://naedist.animemusicquiz.com/t84m43.mp3",
+  },
+  {
+    name: "Blue Box",
+    videoId: "2k8zlyquTOs",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+    videoId: "94Kd7qN1iOk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    videoId: "aPzI7S3MVI4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Sengoku Youko: Senma Konton-hen",
+    videoId: "tzwmEW28D-s",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Amagami-san Chi no Enmusubi",
+    videoId: "TC0cyKYyeJ4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Danmachi Season 5",
+    videoId: "axVO4pRoK4s",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ranma \u00bd (2024)",
+    videoId: "Sy-CYyfmO6g",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Seirei Gensouki 2",
+    videoId: "_P5ahKOlyuI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mecha-ude (TV)",
+    videoId: "qceCQ4zUHlU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+    videoId: "CEQJn87BReA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Trillion Game",
+    videoId: "G2Ywy1cTGLQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+    videoId: "8317RnkzsrU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "MF Ghost 2nd Season",
+    videoId: "jhdHg4Z28U0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Kabushikigaisha Magi-Lumi\u00e8re",
+    videoId: "R6oIaWuN0lk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Chi.: Chikyuu no Undou ni Tsuite",
+    videoId: "xeiknsc7MVs",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Raise wa Tanin ga Ii",
+    videoId: "iL9va_rRgKg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    videoId: "lZupPsZ2TiU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Shangri-La Frontier 2nd Season",
+    videoId: "hyiO1JXu8AY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "NegaPosi Angler",
+    videoId: "RyNte-nejeU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Nina the Starry Bride",
+    videoId: "2lBbBCa5A7I",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Loner Life in Another World",
+    videoId: "4IuUgjvZiK4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Kami no Tou: Koubou-sen",
+    videoId: "BJOKdLHQumk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Kankin Kuiki Level X",
+    videoId: "https://naedist.animemusicquiz.com/678k01.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
+    opts: {
+      singer: [
+        "OP"
+      ]
     }
-}
+  },
+  {
+    name: "Love Live! Superstar!! 3rd Season",
+    videoId: "https://naedist.animemusicquiz.com/er5qfe.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Maou-sama, Retry! R",
+    videoId: "Rb6PotHUou8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Nageki no Bourei wa Intai shitai",
+    videoId: "BVMjA_dCE6c",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Natsume Yuujinchou Shichi",
+    videoId: "JeityPnYDiA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Youkai Gakkou no Sensei Hajimemashita!",
+    videoId: "MFiivReoku8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "2.5-jigen no Ririsa",
+    videoId: "a2OgsC9McPo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Arifureta Shokugyou de Sekai Saikyou Season 3",
+    videoId: "Y5PdJwqcpUg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  }
 ];
