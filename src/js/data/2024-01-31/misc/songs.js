@@ -1,4 +1,4 @@
-export const animeEndings = [
+export const songs = [
   {
     name: "Dandadan",
     videoId: "ovW7yRi1iJ8",
