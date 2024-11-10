@@ -660,16 +660,6 @@ export const songs = [
     }
   },
   {
-    name: "Carole & Tuesday",
-    videoId: "https://naedist.animemusicquiz.com/9s39u6.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "Vermeil in Gold",
     videoId: "https://naedist.animemusicquiz.com/9hdnne.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -792,26 +782,6 @@ export const songs = [
   {
     name: "ID INVADED",
     videoId: "https://naedist.animemusicquiz.com/j6wn6l.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Apothecary Daries",
-    videoId: "https://naedist.animemusicquiz.com/u74wvd.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Noragami Aragoto",
-    videoId: "https://naedist.animemusicquiz.com/8pj63d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -1152,26 +1122,6 @@ export const songs = [
   {
     name: "fuuka",
     videoId: "https://naedist.animemusicquiz.com/5btkvb.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "How a Realist Hero Rebuilt the Kingdom Part 2",
-    videoId: "https://naedist.animemusicquiz.com/qd1q3n.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Teppen!!!!!!!!!!!!!!!",
-    videoId: "https://naedist.animemusicquiz.com/qd1q3n.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
