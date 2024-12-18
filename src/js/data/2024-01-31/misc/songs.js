@@ -1,7 +1,7 @@
 export const songs = [
   {
     name: "[Oshi No Ko] Season 2",
-    videoId: "\"Fatal\" by GEMN",
+    videoId: "https://naedist.animemusicquiz.com/38kogs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -11,7 +11,7 @@ export const songs = [
   },
   {
     name: "2.5 Dimensional Seduction",
-    videoId: "\"Shutter Chance\" by Meychan",
+    videoId: "https://naedist.animemusicquiz.com/ejjarg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -21,7 +21,7 @@ export const songs = [
   },
   {
     name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-    videoId: "\"Another Birthday\" by Shunichi Toki",
+    videoId: "https://naedist.animemusicquiz.com/8rhhde.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -31,7 +31,7 @@ export const songs = [
   },
   {
     name: "A Condition Called Love",
-    videoId: "\"Kimi no Sei\" by Sexy Zone",
+    videoId: "https://naedist.animemusicquiz.com/qd594y.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -41,7 +41,7 @@ export const songs = [
   },
   {
     name: "A Journey Through Another World: Raising Kids While Adventuring",
-    videoId: "\"Yururing Travel days\" by Tebasaki Sensation",
+    videoId: "https://naedist.animemusicquiz.com/u509xq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -51,7 +51,7 @@ export const songs = [
   },
   {
     name: "A Nobody's Way Up to an Exploration Hero",
-    videoId: "\"Up Start\" by Amatsuki",
+    videoId: "https://naedist.animemusicquiz.com/4jcr3m.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -61,7 +61,7 @@ export const songs = [
   },
   {
     name: "A Salad Bowl of Eccentrics",
-    videoId: "\"Gif ni Ted\" by WANUKA",
+    videoId: "https://naedist.animemusicquiz.com/dlaamu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -71,7 +71,7 @@ export const songs = [
   },
   {
     name: "A Sign of Affection",
-    videoId: "\"Yuki no Ne\" by Novelbright",
+    videoId: "https://naedist.animemusicquiz.com/d9db1h.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -81,7 +81,7 @@ export const songs = [
   },
   {
     name: "Alya Sometimes Hides Her Feelings in Russian",
-    videoId: "\"1-ban Kagayaku Hoshi\" by Sumire Uesaka",
+    videoId: "https://naedist.animemusicquiz.com/ogvug0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -91,7 +91,7 @@ export const songs = [
   },
   {
     name: "An Archdemon's Dilemma: How to Love Your Elf Bride",
-    videoId: "\"Wakaranai Ai\" by The Brow Beat",
+    videoId: "https://naedist.animemusicquiz.com/wmjg8i.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -101,7 +101,7 @@ export const songs = [
   },
   {
     name: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
-    videoId: "\"Blue Days\" by TRUE",
+    videoId: "https://naedist.animemusicquiz.com/nj1ur2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -111,7 +111,7 @@ export const songs = [
   },
   {
     name: "Astro Note",
-    videoId: "\"Hohoemi no Oto\" by Ai Furihata",
+    videoId: "https://naedist.animemusicquiz.com/oz78re.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -121,7 +121,7 @@ export const songs = [
   },
   {
     name: "Atri: My Dear Moments",
-    videoId: "1\"Ano Hikari\" by Nogizaka46",
+    videoId: "https://naedist.animemusicquiz.com/vubmbh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -131,7 +131,7 @@ export const songs = [
   },
   {
     name: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2",
-    videoId: "\"routine life\" by Yui Nishio",
+    videoId: "https://naedist.animemusicquiz.com/4id553.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -141,7 +141,7 @@ export const songs = [
   },
   {
     name: "Bartender Glass of God",
-    videoId: "\"Stardust Memory\" by Takaya Kawasaki",
+    videoId: "https://naedist.animemusicquiz.com/jgg56d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -151,7 +151,7 @@ export const songs = [
   },
   {
     name: "Black Butler: Public School Arc",
-    videoId: "\"Kyoushinsha no Parade - The Parade of Battlers\" by otoha",
+    videoId: "https://naedist.animemusicquiz.com/rgdrvs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -161,7 +161,7 @@ export const songs = [
   },
   {
     name: "Blue Archive The Animation",
-    videoId: "\"Seishun no Archive\" by Abydos Koutougakkou Taisaku Iinkai",
+    videoId: "https://naedist.animemusicquiz.com/ljl9mn.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -171,7 +171,7 @@ export const songs = [
   },
   {
     name: "Blue Exorcist: Shimane Illuminati Saga",
-    videoId: "\"Eye's Sentry\" by UVERworld",
+    videoId: "https://naedist.animemusicquiz.com/svmsva.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
