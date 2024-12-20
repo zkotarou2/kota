@@ -1,6 +1,6 @@
 export const songs = [
   {
-    name: "[Oshi No Ko] Season 2 - Fatal by GEMN",
+    name: "[Oshi No Ko] Season 2 - \"Fatal\" by GEMN",
     videoId: "https://naedist.animemusicquiz.com/38kogs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -10,7 +10,7 @@ export const songs = [
     }
   },
   {
-    name: "2.5 Dimensional Seduction - Shutter Chance by Meychan",
+    name: "2.5 Dimensional Seduction - \"Shutter Chance\" by Meychan",
     videoId: "https://naedist.animemusicquiz.com/ejjarg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -20,7 +20,7 @@ export const songs = [
     }
   },
   {
-    name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Another Birthday by Shunichi Toki",
+    name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - \"Another Birthday\" by Shunichi Toki",
     videoId: "https://naedist.animemusicquiz.com/8rhhde.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -30,7 +30,7 @@ export const songs = [
     }
   },
   {
-    name: "A Condition Called Love - Kimi no Sei by Sexy Zone",
+    name: "A Condition Called Love - \"Kimi no Sei\" by Sexy Zone",
     videoId: "https://naedist.animemusicquiz.com/qd594y.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -40,7 +40,7 @@ export const songs = [
     }
   },
   {
-    name: "A Journey Through Another World: Raising Kids While Adventuring - Yururing Travel days by Tebasaki Sensation",
+    name: "A Journey Through Another World: Raising Kids While Adventuring - \"Yururing Travel days\" by Tebasaki Sensation",
     videoId: "https://naedist.animemusicquiz.com/u509xq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -50,7 +50,7 @@ export const songs = [
     }
   },
   {
-    name: "A Nobody's Way Up to an Exploration Hero - Up Start by Amatsuki",
+    name: "A Nobody's Way Up to an Exploration Hero - \"Up Start\" by Amatsuki",
     videoId: "https://naedist.animemusicquiz.com/4jcr3m.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -60,7 +60,7 @@ export const songs = [
     }
   },
   {
-    name: "A Salad Bowl of Eccentrics - Gif ni Ted by WANUKA",
+    name: "A Salad Bowl of Eccentrics - \"Gif ni Ted\" by WANUKA",
     videoId: "https://naedist.animemusicquiz.com/dlaamu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -70,7 +70,7 @@ export const songs = [
     }
   },
   {
-    name: "A Sign of Affection - Yuki no Ne by Novelbright",
+    name: "A Sign of Affection - \"Yuki no Ne\" by Novelbright",
     videoId: "https://naedist.animemusicquiz.com/d9db1h.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -80,7 +80,7 @@ export const songs = [
     }
   },
   {
-    name: "Alya Sometimes Hides Her Feelings in Russian - 1-ban Kagayaku Hoshi by Sumire Uesaka",
+    name: "Alya Sometimes Hides Her Feelings in Russian - \"1-ban Kagayaku Hoshi\" by Sumire Uesaka",
     videoId: "https://naedist.animemusicquiz.com/ogvug0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -90,7 +90,7 @@ export const songs = [
     }
   },
   {
-    name: "An Archdemon's Dilemma: How to Love Your Elf Bride - Wakaranai Ai by The Brow Beat",
+    name: "An Archdemon's Dilemma: How to Love Your Elf Bride - \"Wakaranai Ai\" by The Brow Beat",
     videoId: "https://naedist.animemusicquiz.com/wmjg8i.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -100,7 +100,7 @@ export const songs = [
     }
   },
   {
-    name: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Blue Days by TRUE",
+    name: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - \"Blue Days\" by TRUE",
     videoId: "https://naedist.animemusicquiz.com/nj1ur2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -110,7 +110,7 @@ export const songs = [
     }
   },
   {
-    name: "Astro Note - Hohoemi no Oto by Ai Furihata",
+    name: "Astro Note - \"Hohoemi no Oto\" by Ai Furihata",
     videoId: "https://naedist.animemusicquiz.com/oz78re.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -120,7 +120,7 @@ export const songs = [
     }
   },
   {
-    name: "Atri: My Dear Moments - Ano Hikari by Nogizaka46",
+    name: "Atri: My Dear Moments - \"Ano Hikari\" by Nogizaka46",
     videoId: "https://naedist.animemusicquiz.com/vubmbh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -130,7 +130,7 @@ export const songs = [
     }
   },
   {
-    name: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2 - routine life by Yui Nishio",
+    name: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2 - \"routine life\" by Yui Nishio",
     videoId: "https://naedist.animemusicquiz.com/4id553.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -140,7 +140,7 @@ export const songs = [
     }
   },
   {
-    name: "Bartender Glass of God - Stardust Memory by Takaya Kawasaki",
+    name: "Bartender Glass of God - \"Stardust Memory\" by Takaya Kawasaki",
     videoId: "https://naedist.animemusicquiz.com/jgg56d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -150,7 +150,7 @@ export const songs = [
     }
   },
   {
-    name: "Black Butler: Public School Arc - Kyoushinsha no Parade - The Parade of Battlers by otoha",
+    name: "Black Butler: Public School Arc - \"Kyoushinsha no Parade - The Parade of Battlers\" by otoha",
     videoId: "https://naedist.animemusicquiz.com/rgdrvs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -160,7 +160,7 @@ export const songs = [
     }
   },
   {
-    name: "Blue Archive The Animation - Seishun no Archive by Abydos Koutougakkou Taisaku Iinkai",
+    name: "Blue Archive The Animation - \"Seishun no Archive\" by Abydos Koutougakkou Taisaku Iinkai",
     videoId: "https://naedist.animemusicquiz.com/ljl9mn.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -170,7 +170,7 @@ export const songs = [
     }
   },
   {
-    name: "Blue Exorcist: Shimane Illuminati Saga - Eye's Sentry by UVERworld",
+    name: "Blue Exorcist: Shimane Illuminati Saga - \"Eye's Sentry\" by UVERworld",
     videoId: "https://naedist.animemusicquiz.com/svmsva.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -330,7 +330,7 @@ export const songs = [
     }
   },
   {
-    name: "Dead Dead Demons Dededede Destruction (ONA) - 0                                   Fatal by GEMN\n1                       Shutter Chance by Meychan\n2               Another Birthday by Shunichi Toki\n3                        Kimi no Sei by Sexy Zone\n4      Yururing Travel days by Tebasaki Sensation\n                          ...                    \n244                       Ai no Reunion by pachae\n245                 Awaku Kasuka by sajou no hana\n246                Ebizori Turn! by Four Eight 48\n247                     Brave one by Fukurow note\n248                   Prism Flare by Shiny Colors\nName: Song Info, Length: 249, dtype: object",
+    name: "Dead Dead Demons Dededede Destruction - \"Shinsekai Yori\" by ano+Lilas Ikuta",
     videoId: "nFvQiyw4idc",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -420,7 +420,7 @@ export const songs = [
     }
   },
   {
-    name: "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells - \"Hazure\" by Chogakusei",
+    name: "Failure Frame - \"Hazure\" by Chogakusei",
     videoId: "https://naedist.animemusicquiz.com/pntjp6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -510,7 +510,7 @@ export const songs = [
     }
   },
   {
-    name: "Hanma Baki vs. Kengan Ashura - 0                                   Fatal by GEMN\n1                       Shutter Chance by Meychan\n2               Another Birthday by Shunichi Toki\n3                        Kimi no Sei by Sexy Zone\n4      Yururing Travel days by Tebasaki Sensation\n                          ...                    \n244                       Ai no Reunion by pachae\n245                 Awaku Kasuka by sajou no hana\n246                Ebizori Turn! by Four Eight 48\n247                     Brave one by Fukurow note\n248                   Prism Flare by Shiny Colors\nName: Song Info, Length: 249, dtype: object",
+    name: "Hanma Baki vs. Kengan Ashura - \"Fly High\" by Atarashii Gakkou no Leaders",
     videoId: "TsK2IhO-gXc",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -870,7 +870,7 @@ export const songs = [
     }
   },
   {
-    name: "NieR:Automata Ver1.1a (Cour 2) - \"Black Box\" by LiSA",
+    name: "NieR:Automata Ver1.1a - \"Black Box\" by LiSA",
     videoId: "https://naedist.animemusicquiz.com/mrie4l.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -1111,7 +1111,7 @@ export const songs = [
   },
   {
     name: "Shangri-La Frontier - \"Danger Danger\" by FZMZ feat. icy",
-    videoId: "https://naedist.animemusicquiz.com/w5uanv.mp3",
+    videoId: "https://naedist.animemusicquiz.com/1kme2x.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -1620,7 +1620,7 @@ export const songs = [
     }
   },
   {
-    name: "Trapezium - 0                                   Fatal by GEMN\n1                       Shutter Chance by Meychan\n2               Another Birthday by Shunichi Toki\n3                        Kimi no Sei by Sexy Zone\n4      Yururing Travel days by Tebasaki Sensation\n                          ...                    \n244                       Ai no Reunion by pachae\n245                 Awaku Kasuka by sajou no hana\n246                Ebizori Turn! by Four Eight 48\n247                     Brave one by Fukurow note\n248                   Prism Flare by Shiny Colors\nName: Song Info, Length: 249, dtype: object",
+    name: "Trapezium - \"Nanmanai\" by MAISONdes feat. Suisei Hoshimachi, sakuma",
     videoId: "WLuo2xETtMU",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -1801,7 +1801,7 @@ export const songs = [
   },
   {
     name: "Yu-Gi-Oh! Go Rush!! - \"Duel Shiyou ze!\" by Masayoshi Ooishi",
-    videoId: "https://naedist.animemusicquiz.com/9n7bjv.webm",
+    videoId: "https://naedist.animemusicquiz.com/e1dqea.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -2470,7 +2470,7 @@ export const songs = [
     }
   },
   {
-    name: "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season - 0                                   Fatal by GEMN\n1                       Shutter Chance by Meychan\n2               Another Birthday by Shunichi Toki\n3                        Kimi no Sei by Sexy Zone\n4      Yururing Travel days by Tebasaki Sensation\n                          ...                    \n244                       Ai no Reunion by pachae\n245                 Awaku Kasuka by sajou no hana\n246                Ebizori Turn! by Four Eight 48\n247                     Brave one by Fukurow note\n248                   Prism Flare by Shiny Colors\nName: Song Info, Length: 249, dtype: object",
+    name: "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season - Brave one by Fukurow note",
     videoId: "lzFJAnuEBEM",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
