@@ -1771,7 +1771,7 @@ export const songs = [
   },
   {
     name: "Wistoria: Wand and Sword - \"Fire and Fear\" by PENGUIN RESEARCH",
-    videoId: "https://naedist.animemusicquiz.com/xjspn4.webm",
+    videoId: "https://naedist.animemusicquiz.com/88sq32.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -1781,7 +1781,7 @@ export const songs = [
   },
   {
     name: "Wonderful Precure! - \"Wonderful Precure! evolution!!\" by Chihaya Yoshitake",
-    videoId: "https://naedist.animemusicquiz.com/xssh4k.webm",
+    videoId: "https://naedist.animemusicquiz.com/xjspn4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -1791,7 +1791,7 @@ export const songs = [
   },
   {
     name: "Yatagarasu: The Raven Does Not Choose Its Master - \"poi\" by Saucy Dog",
-    videoId: "https://naedist.animemusicquiz.com/e1dqea.webm",
+    videoId: "https://naedist.animemusicquiz.com/xssh4k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
