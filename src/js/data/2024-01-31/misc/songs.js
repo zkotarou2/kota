@@ -1590,16 +1590,6 @@ export const songs = [
     }
   },
   {
-    name: "BanG Dream! Episode of Roselia - \"Sing Alive\" by Roselia",
-    videoId: "https://naedist.animemusicquiz.com/3795oc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "Cardfight!! Vanguard - \"Legendary\" by Roselia",
     videoId: "https://naedist.animemusicquiz.com/j5pa91.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -3992,6 +3982,16 @@ export const songs = [
   {
     name: "Fairy Gone - \"KNOCK on the CORE\" by (K)NoW_NAME:Ayaka Tachibana & AIJ",
     videoId: "https://naedist.animemusicquiz.com/dacv4e.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "BanG Dream! Episode of Roselia - \"Proud of oneself\" by Roselia",
+    videoId: "https://naedist.animemusicquiz.com/1sbzpu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
