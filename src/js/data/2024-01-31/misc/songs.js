@@ -1,8 +1,8 @@
 export const songs = [
   {
     name: "Ninja Kamui - \"Vengeance\" by coldrain",
-    videoId: "https://naedist.animemusicquiz.com/enacm6.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "3M7bsSqAK4o",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -211,8 +211,8 @@ export const songs = [
   },
   {
     name: "Fate/zero - \"oath sign\" by LiSA",
-    videoId: "https://naedist.animemusicquiz.com/qgy2zu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "gCnCFtbY0ZI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -1010,16 +1010,6 @@ export const songs = [
     }
   },
   {
-    name: "Ao no Exorcist - \"IN MY WORLD\" by ROOKiEZ is PUNK'D",
-    videoId: "https://naedist.animemusicquiz.com/l0yogp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "Zom 100: Bucket List of the Dead - \"Song of the Dead\" by KANA-BOON",
     videoId: "https://naedist.animemusicquiz.com/cc4toh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -1540,16 +1530,6 @@ export const songs = [
     }
   },
   {
-    name: "Neon Genesis Evangelion - \"Zankoku na Tenshi no Thesis\" by Yoko Takahashi",
-    videoId: "https://naedist.animemusicquiz.com/71u5bi.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "JoJo's Bizarre Adventure: Stardust Crusaders - \"STAND PROUD\" by Jin Hashimoto",
     videoId: "https://naedist.animemusicquiz.com/2ibbh9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -1592,16 +1572,6 @@ export const songs = [
   {
     name: "Cardfight!! Vanguard - \"Legendary\" by Roselia",
     videoId: "https://naedist.animemusicquiz.com/j5pa91.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Cardfight!! Vanguard overDress - \"ZEAL of proud\" by Roselia",
-    videoId: "https://naedist.animemusicquiz.com/mnhjjf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -1730,26 +1700,6 @@ export const songs = [
     }
   },
   {
-    name: "Eureka Seven - \"DAYS\" by FLOW",
-    videoId: "https://naedist.animemusicquiz.com/55ww3p.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Cardcaptor Sakura - \"Catch You Catch Me\" by GUMI",
-    videoId: "https://naedist.animemusicquiz.com/v2cubp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "Inu X Boku Secret Service - \"Nirvana\" by MUCC",
     videoId: "https://naedist.animemusicquiz.com/1jnrs6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -1862,16 +1812,6 @@ export const songs = [
   {
     name: "Hajime no Ippo: New Challenger - \"HEKIREKI\" by LAST ALLIANCE",
     videoId: "https://naedist.animemusicquiz.com/qszlrf.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Panty & Stocking with Garterbelt - \"Theme for Panty & Stocking\" by Hoshina Anniversary",
-    videoId: "https://naedist.animemusicquiz.com/x7o8de.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -2030,16 +1970,6 @@ export const songs = [
     }
   },
   {
-    name: "Black\u2605Rock Shooter - \"Black\u2605Rock Shooter\" by supercell feat. Hatsune Miku",
-    videoId: "https://naedist.animemusicquiz.com/m8jvtj.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
     name: "Black\u2605\u2605Rock Shooter: Dawn Fall - \"ASEED\" by ZAQ",
     videoId: "https://naedist.animemusicquiz.com/pi3172.webm",
     videoSource: VIDEOSOURCE.CATBOX,
@@ -2142,16 +2072,6 @@ export const songs = [
   {
     name: "The Perfect Insider - \"talking\" by KANA-BOON",
     videoId: "https://naedist.animemusicquiz.com/743ltl.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Haikyu!! 3rd Season - \"Hikari Are\" by BURNOUT SYNDROMES",
-    videoId: "https://naedist.animemusicquiz.com/uix5b9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -2492,16 +2412,6 @@ export const songs = [
   {
     name: "Granblue Fantasy the Animation Season 2 - \"Stay With Me\" by Seven Billion Dots",
     videoId: "https://naedist.animemusicquiz.com/8rn0b2.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Magical Destroyers - \"MAGICAL DESTROYER\" by Aimi",
-    videoId: "https://naedist.animemusicquiz.com/1it17x.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -3012,16 +2922,6 @@ export const songs = [
   {
     name: "Gundam Build Divers Re:Rise Season 2 - \"HATENA\" by PENGUIN RESEARCH",
     videoId: "https://naedist.animemusicquiz.com/vnihyv.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Hell Girl - \"Sakasama no Chou\" by SNoW",
-    videoId: "https://naedist.animemusicquiz.com/ynfj11.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -3992,6 +3892,106 @@ export const songs = [
   {
     name: "BanG Dream! Episode of Roselia - \"Proud of oneself\" by Roselia",
     videoId: "https://naedist.animemusicquiz.com/1sbzpu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "ViVid Strike! - \"Future Strike\" by Yui Ogura",
+    videoId: "https://naedist.animemusicquiz.com/8ueqex.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Pandora Hearts - \"Parallel Hearts\" by FictionJunction",
+    videoId: "https://naedist.animemusicquiz.com/dutftf.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Armed Girl's Machiavellism - \"Shocking Blue\" by Miku Itou",
+    videoId: "https://naedist.animemusicquiz.com/8nipiy.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - \"Another Birthday\" by Shunichi Toki",
+    videoId: "https://naedist.animemusicquiz.com/8rhhde.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Digimon Ghost Game - \"FACTION\" by Wienners",
+    videoId: "https://naedist.animemusicquiz.com/m5d4ku.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Granbelm - \"Tsuki o Ou Mayonaka\" by Eir Aoi",
+    videoId: "https://naedist.animemusicquiz.com/fllaf1.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Netsuzou Trap: NTR - \"Blue Bud Blue\" by Haruka Tojo",
+    videoId: "https://naedist.animemusicquiz.com/nj3q6a.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Nekopara - \"Shiny Happy Days\" by Yuki Yagi, Iori Saeki, Shiori Izawa, Miku Itou, Yuri Noguchi, Marin Mizutani",
+    videoId: "https://naedist.animemusicquiz.com/uo7vd0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Revisions - \"Wagamama de Gomakasanaide\" by THE ORAL CIGARETTES",
+    videoId: "https://naedist.animemusicquiz.com/2vkmql.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The Human Crazy University - \"CATASTROPHE\" by nano",
+    videoId: "https://naedist.animemusicquiz.com/qhbwzn.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
