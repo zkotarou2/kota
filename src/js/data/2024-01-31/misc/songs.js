@@ -251,8 +251,8 @@ export const songs = [
   },
   {
     name: "My Hero Academia: Vigilantes - \"Kekka Alright\" by Kocchi no Kento",
-    videoId: "2hcn6DpSjWM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    videoId: "https://naedist.animemusicquiz.com/02ruhf.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
