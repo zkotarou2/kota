@@ -311,7 +311,7 @@ export const songs = [
   },
   {
     name: "Link Click -  \"Dive Back In Time\" by Bai Sha JAWS",
-    videoId: "ZtEBMYcZvjY",
+    videoId: "ZLohm-ccthY",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -480,8 +480,8 @@ export const songs = [
     }
   },
   {
-    name: "Ranking of Kings - \"BOY\" by King Gnu",
-    videoId: "https://naedist.animemusicquiz.com/dg0mpw.webm",
+    name: "Ranking of Kings - \"Hadaka no Yuusha\" by Vaundy",
+    videoId: "https://naedist.animemusicquiz.com/4j6rpg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
