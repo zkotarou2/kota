@@ -1,17 +1,7 @@
 export const songs = [
   {
-    name: "nan - \"BOW AND ARROW\" by Kenshi Yonezu",
-    videoId: "https://naedist.animemusicquiz.com/n0yfu8.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"Campanella\" by Kenshi Yonezu",
-    videoId: "XeFQJ6-XoD0",
+    name: "One-Punch Man Season 3 - \"Soko ni Aru Akari\" by Makoto Furukawa",
+    videoId: "GHQRaSWa808",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -20,8 +10,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Canary\" by Kenshi Yonezu",
-    videoId: "JAMNqRBL_CY",
+    name: "Gachiakuta - \"Ban\" by Karanoah",
+    videoId: "aqG2OTyXRDo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -30,8 +20,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Eine Kleine\" by Kenshi Yonezu",
-    videoId: "-EKxzId_Sj4",
+    name: "SPY x FAMILY Season 3 - \"Actor\" by Lilas Ikuta",
+    videoId: "e0wrj-qP4LI",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -40,18 +30,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Flamingo\" by Kenshi Yonezu",
-    videoId: "https://youtu.be/Uh6dkL1M9DM?si=WqpuEt16c9znUy1p",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"Flowerwall\" by Kenshi Yonezu",
-    videoId: "Y4_vXzyOJHE",
+    name: "My Hero Academia FINAL SEASON - \"I\" by BUMP OF CHICKEN",
+    videoId: "K0v0lTbZnvM",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -60,8 +40,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Go Go Yuureisen\" by Kenshi Yonezu",
-    videoId: "2PqxOytUjz0",
+    name: "TOUGEN ANKI - \"ACTION\" by eill",
+    videoId: "WHUpja-jFVk",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -70,18 +50,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Haiirotoao\" by Kenshi Yonezu + Masaki Suda",
-    videoId: "https://youtu.be/gJX2iy6nhHc?si=BxBEbUasipZKxb9E",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"KANDEN\" by Kenshi Yonezu",
-    videoId: "UFQEttrn6CQ",
+    name: "To Your Eternity Season 3 - \"Recollections\" by Masashi Hamauzu",
+    videoId: "mYlhi9Sq66k",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -90,18 +60,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"KICK BACK\" by Kenshi Yonezu",
-    videoId: "https://naedist.animemusicquiz.com/wx6gbd.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"LADY\" by Kenshi Yonezu",
-    videoId: "DdF-u3fe5pg",
+    name: "May I Ask for One Final Thing? - \"Inferior\" by Shiyui ",
+    videoId: "EhYocrLZIJg",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -110,18 +70,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Lemon\" by Kenshi Yonezu",
-    videoId: "https://youtu.be/SX_ViT4Ra7k?si=T2cko4uMiFOIR2VB",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"LOSER\" by Kenshi Yonezu",
-    videoId: "Dx_fKPBPYUI",
+    name: "My Status as an Assassin Obviously Exceeds the Hero\u2019s - \"Like Gravity\" by BONNIE PINK",
+    videoId: "3zI6ItNOVFQ",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -130,8 +80,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"M87\" by Kenshi Yonezu",
-    videoId: "Zhx1n6uvgUE",
+    name: "My Friend's Little Sister Has It In for Me! - \"Hoshi no Kodou\" by Kohana Lam",
+    videoId: "MS06iiurI0g",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -140,8 +90,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"MAD HEAD LOVE\" by Kenshi Yonezu",
-    videoId: "xCIJJ2Rb368",
+    name: "Campfire Cooking in Another World with my Absurd Skill Season 2 - \"SALT AND PEPPER\" by chelmico",
+    videoId: "wT5rpGWSveE",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -150,8 +100,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"MATORYOSHKA\" by HACHI",
-    videoId: "HOz-9FzIDf0",
+    name: "This Monster Wants to Eat Me - \"Lily\" by Hinako Yaotose",
+    videoId: "7fNDrLOl_nI",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -160,8 +110,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Metronome\" by Kenshi Yonezu",
-    videoId: "Qa9PkDZkyHg",
+    name: "SANDA - \"Diary\" by Soushi Sakiyama",
+    videoId: "PwOKS7BiJ50",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -170,8 +120,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Moongazing\" by Kenshi Yonezu",
-    videoId: "1kUZ0LoUELI",
+    name: "A Wild Last Boss Appeared! - \"Migi Hidari\" by Yuka Nagase",
+    videoId: "czNlpUbNf8A",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -180,18 +130,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"orion\" by Kenshi Yonezu",
-    videoId: "https://naedist.animemusicquiz.com/o6yb4b.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"Pale Blue\" by Kenshi Yonezu",
-    videoId: "7WZ1Kt3zraY",
+    name: "My Gift LVL 9999 Unlimited Gacha - \"Shirogarasu\" by Nowlu",
+    videoId: "KVvP1mvJ2D4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -200,8 +140,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"PAPRIKA\" by Kenshi Yonezu",
-    videoId: "s582L3gujnw",
+    name: "Ranma1/2 (2024) Season 2 - \"Panda Girl\" by nishina",
+    videoId: "X-SOSlnkXAc",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -210,28 +150,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Peace Sign\" by Kenshi Yonezu",
-    videoId: "https://naedist.animemusicquiz.com/s56bid.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"Plazma\" by Kenshi Yonezu",
-    videoId: "https://naedist.animemusicquiz.com/5pqf6p.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"POP SONG\" by Kenshi Yonezu",
-    videoId: "mHP6-D-yBEw",
+    name: "Dusk Beyond the End of the World - \"Two Of Us\" by Hana Hope",
+    videoId: "gSzBX2LXNjw",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -240,8 +160,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Sand Planet\" by HACHI ft. Hatsune Miku",
-    videoId: "AS4q9yaWJkI",
+    name: "Chitose Is in the Ramune Bottle - \"Kagerou\" by Cidergirl",
+    videoId: "ca7_nIyte3I",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -250,8 +170,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Sayonara, Mata Itsuka !\" by Kenshi Yonezu",
-    videoId: "-wb2PAx6aEs",
+    name: "My Awkward Senpai - \"Bukiyou ni Kimi no Tonari\" by Ami Maeshima ",
+    videoId: "g22kv3jGpgc",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -260,8 +180,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Shinigami\" by Kenshi Yonezu",
-    videoId: "8nxaZ69ElEc",
+    name: "The Banished Court Magician Aims to Become the Strongest - \"Kakera\" by aruma",
+    videoId: "G9blq2RvhOo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -270,8 +190,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Shunrai\" by Kenshi Yonezu",
-    videoId: "zkNzxsaCunU",
+    name: "Touring After the Apocalypse - \"Glide\" by Myuk",
+    videoId: "Y1Boa-zc-Ps",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -280,8 +200,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Spinning Globe\" by Kenshi Yonezu",
-    videoId: "VUsURj_OYdA",
+    name: "Who Made Me a Princess - \"Sono Hitomi de\" by XAI",
+    videoId: "qHXg39FZDoU",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -290,8 +210,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Spirits of the Sea\" by Kenshi Yonezu",
-    videoId: "1s84rIhPuhk",
+    name: "Wandance - \"Wondrous\" by ELSEE",
+    videoId: "5qTSqH02_Fw",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -300,18 +220,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"TEENAGE RIOT\"  by Kenshi Yonezu",
-    videoId: "https://youtu.be/lwolyOIcCQg?si=onxMBULTZjXkh5JU",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "nan - \"Uchiage Hanabi\" by DAOKO\u00d7Kenshi Yonezu",
-    videoId: "-tKVN2mAKRI",
+    name: "Inexpressive Kashiwada and Expressive Oota  - \"Amanojaku Hero\" by Sangatsu no Phantasia",
+    videoId: "gcvN2XPzx6s",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -320,8 +230,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Uma to Shika\" by Kenshi Yonezu",
-    videoId: "ptnYBctoexk",
+    name: "Umamusume: Cinderella Gray 2nd Cour - \"Futari\" by Oguri Cap and Tamamo Cross",
+    videoId: "ez0j1DG03sA",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -330,8 +240,8 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"Unbelivers\" by Kenshi Yonezu",
-    videoId: "naJcqMBbAn4",
+    name: "Tales of Wedding Rings Season 2 - \"any if\" by Akari Kitou",
+    videoId: "IogTsI1V_pA",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -340,8 +250,98 @@ export const songs = [
     }
   },
   {
-    name: "nan - \"vivi\" by Kenshi Yonezu",
-    videoId: "W-Tun8O-Tjk",
+    name: "GINTAMA - Mr. Ginpachi's Zany Class - \"Underclass HERO\" by LONGMAN",
+    videoId: "nejdFT00jK4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Tojima Wants to Be a Kamen Rider - \"One More Time\" by TeddyLoid feat. Ryoji Tokito",
+    videoId: "7c0AiPEyMxQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Isekai Quartet 3 - \"Kimi-iro, Boku-iro\" by Konomi Suzuki, Kashitaro Ito",
+    videoId: "NvPMPb42epQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "GNOSIA - \"Loo\uff05 Who\uff05\" by Ling tosite sigure",
+    videoId: "rdGH98W_7s0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "DIGIMON BEATBREAK - \"beat up\" by Ai Tomioka",
+    videoId: "Je4IjQqlD84",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Cat's Eye (2025) - \"CAT'S EYE\" by Ado",
+    videoId: "zRXYrg6zvCc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Shabake - \"Myakumyaku\" by KAFUN\u00c9",
+    videoId: "vvohWnyaXBY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Alma-chan Wants to Be a Family! - \"Arifuretetai\" by KAF",
+    videoId: "-MHfE_rpJWA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ganglion - \"Ao no Mahou\" by Cho Q May",
+    videoId: "iY-YA20k6ig",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "A Mangaka's Weirdly Wonderful Workplace - \"Thankful\" by Sizuk",
+    videoId: "kAWZAbv6II4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
