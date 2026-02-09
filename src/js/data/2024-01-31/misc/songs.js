@@ -1,8 +1,8 @@
 export const songs = [
   {
-    name: "One-Punch Man Season 3 - \"Soko ni Aru Akari\" by Makoto Furukawa",
-    videoId: "GHQRaSWa808",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"BAKU\" by Ikimono-gakari",
+    videoId: "https://naedist.animemusicquiz.com/ylx6jx.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -10,9 +10,9 @@ export const songs = [
     }
   },
   {
-    name: "Gachiakuta - \"Ban\" by Karanoah",
-    videoId: "aqG2OTyXRDo",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Baton Road\" by KANA-BOON",
+    videoId: "https://naedist.animemusicquiz.com/zbbptu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -20,9 +20,9 @@ export const songs = [
     }
   },
   {
-    name: "SPY x FAMILY Season 3 - \"Actor\" by Lilas Ikuta",
-    videoId: "e0wrj-qP4LI",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Blood Circulator\" by ASIAN KUNG-FU GENERATION",
+    videoId: "https://naedist.animemusicquiz.com/b83tx3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -30,9 +30,9 @@ export const songs = [
     }
   },
   {
-    name: "My Hero Academia FINAL SEASON - \"I\" by BUMP OF CHICKEN",
-    videoId: "K0v0lTbZnvM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Blue Bird\" by Ikimono-gakari",
+    videoId: "https://naedist.animemusicquiz.com/enrlw0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -40,9 +40,9 @@ export const songs = [
     }
   },
   {
-    name: "TOUGEN ANKI - \"ACTION\" by eill",
-    videoId: "WHUpja-jFVk",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"CLOSER\" by Joe Inoue",
+    videoId: "https://naedist.animemusicquiz.com/dwfpu9.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -50,9 +50,9 @@ export const songs = [
     }
   },
   {
-    name: "To Your Eternity Season 3 - \"Recollections\" by Masashi Hamauzu",
-    videoId: "mYlhi9Sq66k",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"distance\" by LONG SHOT PARTY",
+    videoId: "https://naedist.animemusicquiz.com/ot1ct2.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -60,9 +60,9 @@ export const songs = [
     }
   },
   {
-    name: "May I Ask for One Final Thing? - \"Inferior\" by Shiyui ",
-    videoId: "EhYocrLZIJg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Diver\" by NICO Touches the Walls",
+    videoId: "https://naedist.animemusicquiz.com/eyh0st.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -70,9 +70,9 @@ export const songs = [
     }
   },
   {
-    name: "My Status as an Assassin Obviously Exceeds the Hero\u2019s - \"Like Gravity\" by BONNIE PINK",
-    videoId: "3zI6ItNOVFQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Gamushara\" by CHiCO with HoneyWorks",
+    videoId: "https://naedist.animemusicquiz.com/nk6rdp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -80,9 +80,9 @@ export const songs = [
     }
   },
   {
-    name: "My Friend's Little Sister Has It In for Me! - \"Hoshi no Kodou\" by Kohana Lam",
-    videoId: "MS06iiurI0g",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Spin-Off: Rock Lee & His Ninja Pals - \"Give Lee Give Lee Rock Lee\" by Animetal USA\u00d7Hironobu Kageyama",
+    videoId: "https://naedist.animemusicquiz.com/33f4uu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -90,9 +90,9 @@ export const songs = [
     }
   },
   {
-    name: "Campfire Cooking in Another World with my Absurd Skill Season 2 - \"SALT AND PEPPER\" by chelmico",
-    videoId: "wT5rpGWSveE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"GO!!!\" by FLOW",
+    videoId: "https://naedist.animemusicquiz.com/psrddv.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -100,9 +100,9 @@ export const songs = [
     }
   },
   {
-    name: "This Monster Wants to Eat Me - \"Lily\" by Hinako Yaotose",
-    videoId: "7fNDrLOl_nI",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"GOLD\" by FLOW",
+    videoId: "https://naedist.animemusicquiz.com/r3kwp5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -110,9 +110,9 @@ export const songs = [
     }
   },
   {
-    name: "SANDA - \"Diary\" by Soushi Sakiyama",
-    videoId: "PwOKS7BiJ50",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Golden Time\" by Fujifabric",
+    videoId: "https://naedist.animemusicquiz.com/yjtvj8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -120,9 +120,9 @@ export const songs = [
     }
   },
   {
-    name: "A Wild Last Boss Appeared! - \"Migi Hidari\" by Yuka Nagase",
-    videoId: "czNlpUbNf8A",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Good Bye, Good Luck\" by TOTALFAT",
+    videoId: "https://naedist.animemusicquiz.com/nykao4.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -130,9 +130,9 @@ export const songs = [
     }
   },
   {
-    name: "My Gift LVL 9999 Unlimited Gacha - \"Shirogarasu\" by Nowlu",
-    videoId: "KVvP1mvJ2D4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Guren\" by DOES",
+    videoId: "https://naedist.animemusicquiz.com/30e80m.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -140,9 +140,9 @@ export const songs = [
     }
   },
   {
-    name: "Ranma1/2 (2024) Season 2 - \"Panda Girl\" by nishina",
-    videoId: "X-SOSlnkXAc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Hajimatte Iku Takamatte Iku\" by Sambomaster",
+    videoId: "https://naedist.animemusicquiz.com/5nearv.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -150,9 +150,9 @@ export const songs = [
     }
   },
   {
-    name: "Dusk Beyond the End of the World - \"Two Of Us\" by Hana Hope",
-    videoId: "gSzBX2LXNjw",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Haruka Kanata\" by ASIAN KUNG-FU GENERATION",
+    videoId: "https://naedist.animemusicquiz.com/6uutr8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -160,9 +160,9 @@ export const songs = [
     }
   },
   {
-    name: "Chitose Is in the Ramune Bottle - \"Kagerou\" by Cidergirl",
-    videoId: "ca7_nIyte3I",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Hero's Come Back!!\" by nobodyknows+",
+    videoId: "https://naedist.animemusicquiz.com/6owko9.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -170,9 +170,9 @@ export const songs = [
     }
   },
   {
-    name: "My Awkward Senpai - \"Bukiyou ni Kimi no Tonari\" by Ami Maeshima ",
-    videoId: "g22kv3jGpgc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Hotaru no Hikari\" by Ikimono-gakari",
+    videoId: "https://naedist.animemusicquiz.com/urd4oa.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -180,9 +180,9 @@ export const songs = [
     }
   },
   {
-    name: "The Banished Court Magician Aims to Become the Strongest - \"Kakera\" by aruma",
-    videoId: "G9blq2RvhOo",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"It's all in the game\" by Qyoto",
+    videoId: "https://naedist.animemusicquiz.com/5t20eh.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -190,9 +190,9 @@ export const songs = [
     }
   },
   {
-    name: "Touring After the Apocalypse - \"Glide\" by Myuk",
-    videoId: "Y1Boa-zc-Ps",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Kara no Kokoro\" by Anly",
+    videoId: "https://naedist.animemusicquiz.com/h6yvlm.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -200,9 +200,9 @@ export const songs = [
     }
   },
   {
-    name: "Who Made Me a Princess - \"Sono Hitomi de\" by XAI",
-    videoId: "qHXg39FZDoU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Kaze\" by Yamazaru",
+    videoId: "https://naedist.animemusicquiz.com/0pxs3d.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -210,9 +210,9 @@ export const songs = [
     }
   },
   {
-    name: "Wandance - \"Wondrous\" by ELSEE",
-    videoId: "5qTSqH02_Fw",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Kirarirari\" by KANA-BOON",
+    videoId: "https://naedist.animemusicquiz.com/yqjhgp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -220,9 +220,9 @@ export const songs = [
     }
   },
   {
-    name: "Inexpressive Kashiwada and Expressive Oota  - \"Amanojaku Hero\" by Sangatsu no Phantasia",
-    videoId: "gcvN2XPzx6s",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"LINE\" by Sukima Switch",
+    videoId: "https://naedist.animemusicquiz.com/u1wg1h.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -230,9 +230,9 @@ export const songs = [
     }
   },
   {
-    name: "Umamusume: Cinderella Gray 2nd Cour - \"Futari\" by Oguri Cap and Tamamo Cross",
-    videoId: "ez0j1DG03sA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"Lonely Go!\" by Brian the Sun",
+    videoId: "https://naedist.animemusicquiz.com/04rmlm.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -240,9 +240,9 @@ export const songs = [
     }
   },
   {
-    name: "Tales of Wedding Rings Season 2 - \"any if\" by Akari Kitou",
-    videoId: "IogTsI1V_pA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Spin-Off: Rock Lee & His Ninja Pals - \"Love Song\" by OKAMOTO'S",
+    videoId: "https://naedist.animemusicquiz.com/ukwq9w.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -250,9 +250,9 @@ export const songs = [
     }
   },
   {
-    name: "GINTAMA - Mr. Ginpachi's Zany Class - \"Underclass HERO\" by LONGMAN",
-    videoId: "nejdFT00jK4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Lovers\" by 7!!",
+    videoId: "https://naedist.animemusicquiz.com/3uva5m.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -260,9 +260,9 @@ export const songs = [
     }
   },
   {
-    name: "Tojima Wants to Be a Kamen Rider - \"One More Time\" by TeddyLoid feat. Ryoji Tokito",
-    videoId: "7c0AiPEyMxQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Moshimo\" by Daisuke",
+    videoId: "https://naedist.animemusicquiz.com/nfdua3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -270,9 +270,9 @@ export const songs = [
     }
   },
   {
-    name: "Isekai Quartet 3 - \"Kimi-iro, Boku-iro\" by Konomi Suzuki, Kashitaro Ito",
-    videoId: "NvPMPb42epQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Namikaze Satellite\" by Snowkel",
+    videoId: "https://naedist.animemusicquiz.com/05e8ao.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -280,9 +280,9 @@ export const songs = [
     }
   },
   {
-    name: "GNOSIA - \"Loo\uff05 Who\uff05\" by Ling tosite sigure",
-    videoId: "rdGH98W_7s0",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"newsong\" by tacica",
+    videoId: "https://naedist.animemusicquiz.com/w8redc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -290,9 +290,9 @@ export const songs = [
     }
   },
   {
-    name: "DIGIMON BEATBREAK - \"beat up\" by Ai Tomioka",
-    videoId: "Je4IjQqlD84",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto Shippuuden - \"Niwaka Ame ni mo Makezu\" by NICO Touches the Walls",
+    videoId: "https://naedist.animemusicquiz.com/o55mk8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -300,9 +300,9 @@ export const songs = [
     }
   },
   {
-    name: "Cat's Eye (2025) - \"CAT'S EYE\" by Ado",
-    videoId: "zRXYrg6zvCc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"No Boy No Cry\" by STANCE PUNKS",
+    videoId: "https://naedist.animemusicquiz.com/9a1qf6.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -310,9 +310,9 @@ export const songs = [
     }
   },
   {
-    name: "Shabake - \"Myakumyaku\" by KAFUN\u00c9",
-    videoId: "vvohWnyaXBY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Boruto: Naruto Next Generations - \"OVER\" by Little Glee Monster",
+    videoId: "https://naedist.animemusicquiz.com/yder07.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -320,9 +320,9 @@ export const songs = [
     }
   },
   {
-    name: "Alma-chan Wants to Be a Family! - \"Arifuretetai\" by KAF",
-    videoId: "-MHfE_rpJWA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Rise\" by Jeremy Sweet & Ian Nickus",
+    videoId: "https://naedist.animemusicquiz.com/v65efq.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -330,9 +330,9 @@ export const songs = [
     }
   },
   {
-    name: "Ganglion - \"Ao no Mahou\" by Cho Q May",
-    videoId: "iY-YA20k6ig",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Sayonara Sekai\" by Kishidan",
+    videoId: "https://naedist.animemusicquiz.com/c7teej.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
@@ -340,9 +340,99 @@ export const songs = [
     }
   },
   {
-    name: "A Mangaka's Weirdly Wonderful Workplace - \"Thankful\" by Sizuk",
-    videoId: "kAWZAbv6II4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Naruto - \"Seishun Kyousoukyoku\" by Sambomaster",
+    videoId: "https://naedist.animemusicquiz.com/zg1spa.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Boruto: Naruto Next Generations - \"Shukuen\" by ASIAN KUNG-FU GENERATION",
+    videoId: "https://naedist.animemusicquiz.com/y3enrt.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto Shippuuden - \"Sign\" by FLOW",
+    videoId: "https://naedist.animemusicquiz.com/1zz8kw.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto Shippuuden - \"Silhouette\" by KANA-BOON",
+    videoId: "https://naedist.animemusicquiz.com/obrvnk.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto - \"Tada Yowai dake ja Nakute Bokura wa...\" by Mass Alert",
+    videoId: "https://naedist.animemusicquiz.com/0mg65q.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Boruto: Naruto Next Generations - \"Teenage Dream\" by miwa",
+    videoId: "https://naedist.animemusicquiz.com/l1gi5p.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto Shippuuden - \"Totsugeki Rock\" by The Cro-Magnons",
+    videoId: "https://naedist.animemusicquiz.com/e01oyu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto Shippuuden - \"Toumei Datta Sekai\" by Motohiro Hata",
+    videoId: "https://naedist.animemusicquiz.com/u8igh3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto Shippuuden - \"Tsuki no Ookisa\" by Nogizaka46",
+    videoId: "https://naedist.animemusicquiz.com/iq60um.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto - \"Yura Yura\" by Hearts Grow",
+    videoId: "https://naedist.animemusicquiz.com/ohonxl.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
